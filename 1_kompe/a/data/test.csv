@@ -1,0 +1,1045 @@
+Id,Year,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,Broad_Jump,Agility_3cone,Shuttle,Player_Type,Position_Type,Position
+2433,2018,20.0,Pittsburgh,1.8034,88.45051215,,,21.0,,,,defense,defensive_back,S
+2434,2011,22.0,Boise St.,1.778,96.16158244,4.51,,23.0,,,,defense,defensive_back,SS
+2435,2011,23.0,Penn St.,1.8288,96.16158244,4.65,86.36,20.0,287.02,7.07,4.18,offense,backs_receivers,RB
+2436,2009,22.0,Arizona St.,1.9558,148.324705,5.48,,15.0,,,,offense,offensive_lineman,OG
+2437,2017,21.0,Mississippi St.,1.8542,96.61517481,4.51,88.9,10.0,287.02,6.99,4.28,offense,backs_receivers,WR
+2438,2011,23.0,Auburn,1.9304,131.9953797,4.84,78.74,,287.02,7.14,4.56,defense,defensive_lineman,DT
+2439,2014,23.0,Arkansas,1.8542,148.324705,5.26,,32.0,,,,defense,defensive_lineman,DT
+2440,2015,22.0,South Alabama,1.9304,103.8726527,4.72,83.82,,279.4,7.18,4.37,offense,backs_receivers,QB
+2441,2018,21.0,Temple,1.8288,86.1825503,4.65,87.63,16.0,302.26,,4.62,defense,defensive_back,S
+2442,2017,21.0,Virginia Tech,1.9812,116.5732391,4.57,99.06,18.0,340.36,,4.45,offense,backs_receivers,TE
+2443,2010,22.0,USC,1.8034,97.06876718,4.62,90.17,13.0,299.72,,,offense,backs_receivers,RB
+2444,2013,23.0,Rutgers,1.9812,115.6660544,4.97,,3.0,,,,offense,backs_receivers,TE
+2445,2013,22.0,SMU,1.7526,81.19303423,4.6,81.28,6.0,276.86,,4.53,offense,backs_receivers,WR
+2446,2015,,Central Arkansas,1.9304,97.06876718,4.58,85.09,16.0,302.26,7.11,4.28,offense,backs_receivers,WR
+2447,2015,23.0,Virginia Tech,1.9812,138.3456729,5.04,85.09,24.0,287.02,7.72,4.56,offense,offensive_lineman,OT
+2448,2013,23.0,USC,1.905,136.9848957,5.29,,13.0,,,,offense,offensive_lineman,C
+2449,2019,22.0,Clemson,1.9558,137.4384881,,64.77,28.0,259.08,7.72,4.52,offense,offensive_lineman,OT
+2450,2015,22.0,Washington,1.8796,114.7588696,4.93,,,,,,defense,line_backer,OLB
+2451,2010,,Norfolk St.,1.8796,95.70799007,4.5,88.9,15.0,297.18,6.76,4.35,offense,backs_receivers,WR
+2452,2017,20.0,South Florida,1.8034,96.61517481,4.5,90.17,15.0,317.5,,,offense,backs_receivers,RB
+2453,2011,23.0,Georgia,1.8796,127.459456,4.87,78.74,,271.78,7.22,4.37,defense,defensive_lineman,DE
+2454,2018,20.0,USC,1.905,100.2439138,4.85,67.31,,266.7,6.96,4.4,offense,backs_receivers,QB
+2455,2012,22.0,Ala-Birmingham,1.9812,139.70645,5.4,64.77,17.0,246.38,,,offense,offensive_lineman,OT
+2456,2015,,Clemson,1.8288,86.63614267,4.61,82.55,7.0,302.26,6.8,4.0,defense,defensive_back,CB
+2457,2017,22.0,Arkansas,1.9558,124.2843094,4.92,83.82,22.0,314.96,,,defense,defensive_lineman,DE
+2458,2009,22.0,Alabama,1.905,140.1600423,5.24,71.12,23.0,281.94,7.96,5.04,offense,offensive_lineman,C
+2459,2017,22.0,Arkansas,1.8542,96.16158244,4.64,,16.0,,,,offense,backs_receivers,WR
+2460,2014,21.0,Vanderbilt,1.778,85.27536556,4.5,90.17,15.0,302.26,7.14,4.27,defense,defensive_back,CB
+2461,2014,22.0,Georgia Southern,1.8034,84.36818082,4.63,91.44,15.0,307.34,6.98,4.27,defense,defensive_back,CB
+2462,2012,21.0,Ohio St.,2.0066,146.5103355,5.28,72.39,19.0,254.0,7.94,4.95,offense,offensive_lineman,OT
+2463,2012,23.0,Michigan,1.8542,102.0582833,4.48,90.17,21.0,314.96,6.59,3.98,offense,backs_receivers,WR
+2464,2009,21.0,Purdue,1.905,135.1705263,4.82,74.93,30.0,261.62,7.52,4.55,defense,defensive_lineman,DT
+2465,2010,,Nevada,1.9304,117.0268315,4.75,73.66,26.0,264.16,7.54,4.88,defense,defensive_lineman,DE
+2466,2012,23.0,Baylor,1.8034,108.4085764,4.61,95.25,,302.26,7.15,4.25,offense,backs_receivers,RB
+2467,2016,22.0,Alabama,1.8542,95.2543977,4.45,87.63,10.0,312.42,7.04,4.21,offense,backs_receivers,RB
+2468,2012,21.0,Portland St.,1.9558,138.3456729,5.23,66.04,29.0,261.62,7.93,4.75,offense,offensive_lineman,OT
+2469,2019,20.0,Notre Dame,1.8034,88.45051215,4.54,91.44,14.0,307.34,6.72,4.1,defense,defensive_back,CB
+2470,2012,22.0,Vanderbilt,1.8796,97.97595192,4.43,97.79,22.0,325.12,7.01,4.44,defense,defensive_back,SS
+2471,2011,21.0,Michigan St.,1.8288,87.54332741,4.54,,14.0,,,,offense,backs_receivers,WR
+2472,2017,22.0,Miami (FL),1.778,83.00740371,4.55,,,,,,defense,defensive_back,CB
+2473,2013,22.0,Arkansas,1.905,110.6765383,4.5,95.25,18.0,317.5,7.08,4.51,offense,backs_receivers,TE
+2474,2010,21.0,Kentucky,1.8542,117.0268315,4.99,73.66,31.0,,,,defense,line_backer,ILB
+2475,2011,23.0,Virginia Tech,1.905,129.7274178,5.09,72.39,29.0,289.56,7.49,4.49,defense,defensive_lineman,DT
+2476,2011,23.0,Wisconsin,1.905,110.2229459,4.65,87.63,25.0,309.88,6.94,4.15,offense,backs_receivers,TE
+2477,2013,22.0,Texas,1.7526,83.00740371,4.27,,13.0,335.28,,,offense,backs_receivers,WR
+2478,2011,22.0,Hawaii,1.8288,102.0582833,4.45,86.36,20.0,289.56,6.91,4.15,offense,backs_receivers,RB
+2479,2013,23.0,Michigan St.,1.778,83.91458845,4.48,,16.0,,,,defense,defensive_back,CB
+2480,2018,21.0,Maine,1.9304,144.695966,5.58,59.69,17.0,248.92,7.86,4.95,offense,offensive_lineman,OG
+2481,2010,20.0,Iowa,1.9558,142.4280042,5.2,69.85,26.0,248.92,7.7,4.75,offense,offensive_lineman,OT
+2482,2009,21.0,Texas A&M,1.8288,94.34721296,4.43,100.33,14.0,299.72,6.89,4.22,offense,backs_receivers,RB
+2483,2014,23.0,LSU,1.8542,107.5013917,4.64,88.9,22.0,312.42,7.24,4.35,defense,line_backer,ILB
+2484,2016,21.0,LSU,1.8288,86.63614267,4.61,93.98,16.0,312.42,6.86,4.0,defense,defensive_back,SS
+2485,2019,23.0,Boston Col.,1.8542,93.89362059,4.41,92.71,20.0,312.42,6.91,4.12,defense,defensive_back,S
+2486,2009,22.0,San Jose St.,1.778,82.10021897,4.44,87.63,14.0,279.4,6.93,4.16,defense,defensive_back,CB
+2487,2013,22.0,Alabama,1.9558,144.2423737,5.29,,,,,,defense,defensive_lineman,DT
+2488,2012,22.0,South Carolina,1.905,97.97595192,4.48,,,,,,offense,backs_receivers,WR
+2489,2011,21.0,Utah,1.8288,86.1825503,4.5,81.28,18.0,299.72,6.93,4.07,defense,defensive_back,CB
+2490,2018,21.0,Florida,1.9304,131.9953797,4.98,88.9,30.0,302.26,7.12,4.48,defense,defensive_lineman,DT
+2491,2009,,Indiana,1.8542,97.06876718,4.36,87.63,12.0,294.64,6.85,4.21,offense,backs_receivers,WR
+2492,2018,21.0,Florida St.,2.0066,141.0672271,,,19.0,,,,offense,offensive_lineman,OT
+2493,2010,22.0,Troy,1.905,103.8726527,4.93,80.01,20.0,269.24,7.07,4.43,offense,backs_receivers,QB
+2494,2015,23.0,Stanford,1.9812,133.3561568,4.97,76.2,,281.94,7.2,4.19,defense,defensive_lineman,DE
+2495,2013,23.0,North Carolina,1.8542,110.2229459,4.72,,23.0,287.02,,,defense,line_backer,ILB
+2496,2009,22.0,Oregon St.,1.8542,94.34721296,4.47,85.09,19.0,312.42,,,defense,defensive_back,CB
+2497,2013,22.0,Stanford,1.9558,112.9445001,4.76,77.47,24.0,281.94,7.08,4.47,offense,backs_receivers,TE
+2498,2017,22.0,Villanova,2.0066,131.0881949,4.83,76.2,23.0,325.12,7.46,4.62,defense,defensive_lineman,DE
+2499,2013,,South Florida,1.8542,138.7992652,5.31,69.85,22.0,246.38,7.79,4.81,defense,defensive_lineman,DT
+2500,2014,22.0,Florida St.,1.905,98.88313666,4.52,80.01,,302.26,,,defense,line_backer,OLB
+2501,2017,21.0,LSU,1.8288,97.06876718,4.56,80.01,18.0,304.8,6.96,4.13,defense,defensive_back,SS
+2502,2014,22.0,Wisconsin,1.7526,92.53284348,4.57,81.28,23.0,289.56,7.05,4.2,offense,backs_receivers,RB
+2503,2010,21.0,Georgia,1.8034,106.594207,4.75,87.63,25.0,,,,defense,line_backer,OLB
+2504,2017,23.0,Colorado St.,1.8796,106.594207,4.91,77.47,11.0,279.4,7.18,4.38,defense,line_backer,ILB
+2505,2013,22.0,Florida,1.8796,107.0477993,4.72,,16.0,,,,offense,backs_receivers,TE
+2506,2013,21.0,Ark-Pine Bluff,1.9558,138.7992652,4.71,87.63,31.0,284.48,7.62,4.72,offense,offensive_lineman,OT
+2507,2015,,Maryland,1.8796,112.4909078,4.8,,25.0,,,,defense,line_backer,OLB
+2508,2018,,USC,1.778,85.72895793,4.56,82.55,13.0,307.34,6.75,4.4,offense,backs_receivers,WR
+2509,2009,20.0,South Carolina,1.7272,82.55381134,4.41,95.25,19.0,307.34,7.15,4.2,defense,defensive_back,CB
+2510,2011,21.0,Alabama,1.7526,97.52235955,4.62,80.01,21.0,299.72,7.13,4.62,offense,backs_receivers,RB
+2511,2015,20.0,Virginia,1.9558,113.8516849,4.83,92.71,,307.34,7.59,4.37,defense,line_backer,OLB
+2512,2012,22.0,Cal Poly,1.778,86.63614267,4.48,87.63,19.0,299.72,6.97,4.03,defense,defensive_back,CB
+2513,2017,21.0,Florida St.,1.8288,106.1406146,4.75,71.12,24.0,281.94,7.65,4.45,offense,backs_receivers,FB
+2514,2012,23.0,Arkansas St.,1.8796,91.62565874,4.48,77.47,12.0,309.88,7.0,4.29,defense,defensive_back,SS
+2515,2009,,Michigan St.,1.8542,96.61517481,4.64,,,,,,defense,defensive_back,SS
+2516,2014,22.0,Florida,1.8796,101.6046909,4.62,76.2,,284.48,7.14,4.32,offense,backs_receivers,WR
+2517,2009,23.0,SMU,1.8796,102.0582833,4.7,,25.0,269.24,6.91,4.06,offense,backs_receivers,QB
+2518,2011,,North Carolina,1.8796,92.98643585,4.53,,,,,,defense,defensive_back,FS
+2519,2011,21.0,Boise St.,1.8034,78.92507238,4.43,,,312.42,,,offense,backs_receivers,WR
+2520,2010,21.0,Oklahoma,1.9558,118.3876086,4.66,88.9,20.0,287.02,7.07,4.53,offense,backs_receivers,TE
+2521,2015,21.0,Alabama,1.8542,102.5118756,4.61,91.44,22.0,297.18,7.19,4.22,offense,backs_receivers,RB
+2522,2014,21.0,Iowa,1.8796,105.6870222,4.72,81.28,16.0,309.88,,,defense,line_backer,OLB
+2523,2019,21.0,Utah,1.8542,88.45051215,4.48,88.9,,317.5,,,defense,defensive_back,S
+2524,2018,22.0,Florida St.,1.905,105.2334298,4.58,105.41,,332.74,6.85,4.28,defense,line_backer,OLB
+2525,2013,23.0,Southern Miss,1.905,113.3980925,4.64,105.41,19.0,353.06,7.1,4.32,defense,line_backer,OLB
+2526,2012,22.0,Cincinnati,1.9558,133.8097492,4.93,85.09,33.0,274.32,7.26,4.44,defense,defensive_lineman,DT
+2527,2019,21.0,Texas A&M,1.7272,93.44002822,4.51,83.82,19.0,307.34,7.44,4.44,offense,backs_receivers,RB
+2528,2009,22.0,Maryland,1.8288,84.82177319,4.45,97.79,,325.12,6.72,3.96,defense,defensive_back,CB
+2529,2011,22.0,Slippery Rock,1.9304,138.7992652,5.18,72.39,26.0,274.32,7.29,4.43,offense,offensive_lineman,C
+2530,2017,23.0,Oklahoma St.,1.8288,85.72895793,4.52,87.63,19.0,304.8,,,defense,defensive_back,CB
+2531,2015,23.0,South Carolina,1.905,141.9744118,5.47,,26.0,,,,offense,offensive_lineman,OG
+2532,2012,23.0,California,1.9304,94.34721296,4.86,,,,,,special_teams,kicking_specialist,P
+2533,2016,23.0,Auburn,1.8542,112.4909078,4.83,,21.0,,,,defense,line_backer,ILB
+2534,2019,,Missouri,1.8796,91.17206637,4.39,110.49,15.0,358.14,,,offense,backs_receivers,WR
+2535,2009,23.0,LSU,1.8796,94.80080533,4.49,95.25,13.0,327.66,7.25,4.23,defense,defensive_back,FS
+2536,2019,21.0,LSU,1.9304,114.7588696,4.66,92.71,22.0,307.34,7.16,4.11,offense,backs_receivers,TE
+2537,2012,22.0,Appalachian St.,1.905,99.7903214,4.5,86.36,15.0,302.26,7.1,4.23,offense,backs_receivers,WR
+2538,2014,,Texas,1.8288,89.35769689,4.52,,10.0,,,,offense,backs_receivers,WR
+2539,2013,22.0,Bowling Green,1.8796,136.9848957,5.33,,30.0,,7.34,4.44,defense,defensive_lineman,DT
+2540,2009,22.0,Central Florida,1.7526,87.08973504,4.58,90.17,22.0,299.72,6.68,4.25,defense,defensive_back,CB
+2541,2016,21.0,California,1.9304,97.52235955,4.82,68.58,,279.4,7.17,4.47,offense,backs_receivers,QB
+2542,2013,23.0,Florida,1.778,85.27536556,4.77,,,,,,special_teams,kicking_specialist,K
+2543,2012,21.0,Alabama,1.7526,103.4190604,4.48,,,,,,offense,backs_receivers,RB
+2544,2018,22.0,Washington,1.8288,84.36818082,,,,,,,offense,backs_receivers,WR
+2545,2018,22.0,Clemson,1.9304,145.1495584,5.45,60.96,18.0,243.84,7.84,4.8,offense,offensive_lineman,OG
+2546,2014,23.0,Oregon,1.9812,127.459456,4.92,,21.0,,,,defense,defensive_lineman,DE
+2547,2015,23.0,Newberry,1.905,111.1301307,4.61,93.98,20.0,307.34,7.49,4.38,defense,line_backer,OLB
+2548,2009,22.0,Purdue,1.905,93.89362059,4.61,96.52,22.0,317.5,6.9,4.33,offense,backs_receivers,WR
+2549,2015,23.0,Florida,1.9304,140.1600423,5.24,,,,,,offense,offensive_lineman,C
+2550,2016,23.0,Georgia,1.9812,110.6765383,4.6,100.33,,322.58,,,defense,line_backer,OLB
+2551,2018,,LSU,1.9304,137.4384881,5.34,74.93,15.0,261.62,,,offense,offensive_lineman,OG
+2552,2015,22.0,USC,1.8288,91.17206637,4.44,95.25,26.0,330.2,7.01,4.12,defense,defensive_back,CB
+2553,2012,21.0,Kentucky,1.8288,107.5013917,4.84,80.01,18.0,281.94,,,defense,line_backer,OLB
+2554,2015,21.0,Southern Miss,1.8796,139.2528576,5.02,86.36,26.0,289.56,7.67,4.69,defense,defensive_lineman,DT
+2555,2015,22.0,Wisconsin,2.0066,145.6031508,5.46,72.39,16.0,243.84,8.28,4.87,offense,offensive_lineman,OT
+2556,2018,22.0,Oklahoma,1.8542,97.52235955,4.84,73.66,,281.94,7.0,4.28,offense,backs_receivers,QB
+2557,2009,,Michigan St.,1.9304,135.1705263,4.88,64.77,28.0,269.24,8.18,4.87,defense,defensive_lineman,DT
+2558,2009,,Tennessee,1.905,129.2738255,4.95,80.01,,276.86,7.5,4.78,defense,defensive_lineman,DT
+2559,2010,22.0,Kentucky,1.8034,111.583723,4.64,88.9,24.0,281.94,7.15,4.32,offense,backs_receivers,FB
+2560,2011,20.0,Texas,1.8288,92.53284348,4.55,95.25,18.0,322.58,6.72,4.07,defense,defensive_back,CB
+2561,2019,22.0,San Diego St.,2.0066,145.1495584,,,25.0,,,,offense,offensive_lineman,OT
+2562,2011,23.0,Mount Union,1.8288,92.98643585,4.5,87.63,21.0,289.56,6.5,4.07,offense,backs_receivers,WR
+2563,2015,,Mississippi St.,1.8542,86.63614267,4.36,96.52,15.0,327.66,7.05,4.07,defense,defensive_back,CB
+2564,2018,,Old Dominion,1.9304,123.830717,,81.28,21.0,287.02,7.46,4.7,defense,defensive_lineman,DE
+2565,2018,22.0,Texas-El Paso,1.8796,148.324705,5.15,60.96,37.0,264.16,7.59,4.7,offense,offensive_lineman,OG
+2566,2017,21.0,Nebraska,1.905,109.3157612,4.68,,19.0,,,,offense,backs_receivers,TE
+2567,2012,,Nevada,1.7272,93.44002822,4.54,91.44,21.0,284.48,7.1,4.23,offense,backs_receivers,RB
+2568,2017,22.0,Colorado,1.905,105.2334298,5.08,68.58,,266.7,7.32,4.45,offense,backs_receivers,QB
+2569,2017,21.0,USC,1.905,151.4998516,5.84,62.23,,243.84,8.51,5.38,offense,offensive_lineman,OG
+2570,2016,22.0,Syracuse,1.905,114.7588696,4.92,,18.0,,7.46,4.5,defense,defensive_lineman,DE
+2571,2017,23.0,Iowa,1.8796,99.33672903,,78.74,,287.02,,,offense,backs_receivers,QB
+2572,2013,23.0,Oregon,1.778,92.53284348,4.64,,27.0,,,,defense,defensive_back,FS
+2573,2010,22.0,San Jose St.,1.905,109.7693535,4.76,87.63,22.0,297.18,7.13,4.42,defense,line_backer,OLB
+2574,2014,24.0,LSU,1.8542,98.42954429,4.65,82.55,12.0,302.26,7.15,4.35,defense,defensive_back,SS
+2575,2014,22.0,California,1.9304,116.5732391,4.87,80.01,16.0,294.64,7.23,4.47,offense,backs_receivers,TE
+2576,2019,23.0,Northwestern,1.9304,100.6975061,,,,,,,offense,backs_receivers,QB
+2577,2017,22.0,Oregon,1.9812,115.6660544,,86.36,24.0,,,,offense,backs_receivers,TE
+2578,2013,23.0,Virginia Tech,1.905,105.6870222,4.56,100.33,19.0,304.8,7.15,,offense,backs_receivers,WR
+2579,2016,21.0,Louisville,1.8542,135.6241186,5.03,87.63,28.0,299.72,7.44,4.59,defense,defensive_lineman,DT
+2580,2009,24.0,Connecticut,1.9812,139.2528576,5.06,85.09,27.0,271.78,7.62,4.77,offense,offensive_lineman,OT
+2581,2011,22.0,Iowa,1.9304,128.3666407,4.75,80.01,,281.94,7.54,4.51,defense,defensive_lineman,DE
+2582,2018,,Alabama,1.8796,141.0672271,4.95,72.39,27.0,271.78,7.58,4.71,defense,defensive_lineman,DT
+2583,2010,23.0,Michigan St.,1.8796,94.80080533,4.49,85.09,18.0,292.1,6.69,4.03,offense,backs_receivers,WR
+2584,2019,21.0,Mississippi,1.905,100.2439138,4.77,69.85,,276.86,7.06,4.36,offense,backs_receivers,QB
+2585,2018,21.0,Weber St.,1.8288,81.6466266,4.5,83.82,17.0,299.72,7.03,4.28,defense,defensive_back,CB
+2586,2016,23.0,North Dakota St.,1.9558,107.5013917,4.77,77.47,,299.72,6.86,4.15,offense,backs_receivers,QB
+2587,2017,22.0,Washington,1.905,112.0373154,4.55,81.28,17.0,294.64,7.09,4.47,offense,backs_receivers,TE
+2588,2013,22.0,Boston Col.,1.9558,115.212462,4.99,85.09,17.0,279.4,7.48,4.5,offense,backs_receivers,TE
+2589,2011,22.0,West Virginia,1.8542,109.3157612,4.65,77.47,23.0,289.56,7.23,4.28,defense,line_backer,OLB
+2590,2012,23.0,Arizona St.,1.8542,138.3456729,5.38,77.47,25.0,243.84,7.63,4.65,offense,offensive_lineman,C
+2591,2019,,North Carolina St.,1.905,138.7992652,,80.01,23.0,281.94,7.75,4.82,offense,offensive_lineman,OT
+2592,2009,21.0,Cincinnati,1.8034,83.46099608,4.53,,,,,,defense,defensive_back,CB
+2593,2018,23.0,Iowa,1.8542,106.1406146,4.82,83.82,18.0,297.18,6.8,4.27,defense,line_backer,ILB
+2594,2013,23.0,Virginia Tech,1.9304,138.7992652,4.95,77.47,32.0,246.38,7.71,4.56,offense,offensive_lineman,OT
+2595,2012,22.0,Stanford,1.9558,141.5208194,5.27,,,,,,offense,offensive_lineman,OT
+2596,2015,21.0,Boise St.,1.8288,100.2439138,4.57,99.06,19.0,307.34,7.1,4.1,offense,backs_receivers,RB
+2597,2017,22.0,Charlotte,1.905,138.3456729,4.97,81.28,26.0,294.64,7.55,4.75,defense,defensive_lineman,DE
+2598,2009,22.0,Illinois,1.9304,136.9848957,5.01,78.74,27.0,281.94,7.35,4.56,offense,offensive_lineman,OT
+2599,2015,,Portland St.,1.8796,100.2439138,5.08,,,,,,special_teams,kicking_specialist,P
+2600,2015,22.0,Oregon St.,1.778,89.35769689,4.49,87.63,19.0,292.1,6.88,4.07,defense,defensive_back,CB
+2601,2013,23.0,Louisiana Tech,1.8542,103.8726527,4.98,,,,,,special_teams,kicking_specialist,P
+2602,2010,22.0,Clemson,1.8288,86.63614267,4.43,100.33,17.0,307.34,7.08,4.23,defense,defensive_back,CB
+2603,2017,22.0,LSU,1.8288,108.8621688,4.51,72.39,,,,,offense,backs_receivers,RB
+2604,2016,23.0,Toledo,1.9304,93.44002822,4.54,74.93,12.0,284.48,7.18,4.33,offense,backs_receivers,WR
+2605,2014,,Dixie State,1.905,121.5627552,4.79,,35.0,,,,offense,backs_receivers,TE
+2606,2013,23.0,North Carolina St.,2.0066,102.0582833,4.94,67.31,,259.08,7.49,4.52,offense,backs_receivers,QB
+2607,2014,22.0,Nevada,1.9304,136.9848957,4.92,81.28,22.0,289.56,7.37,4.44,offense,offensive_lineman,OG
+2608,2009,23.0,Georgia,1.905,136.5313034,4.96,62.23,24.0,246.38,7.44,4.73,defense,defensive_lineman,DT
+2609,2011,21.0,Pittsburgh,1.9304,103.4190604,4.49,106.68,20.0,327.66,7.07,4.34,offense,backs_receivers,WR
+2610,2016,23.0,USC,1.8034,111.583723,4.68,81.28,26.0,274.32,,,offense,backs_receivers,FB
+2611,2011,21.0,UCLA,1.8796,115.212462,4.81,78.74,18.0,294.64,7.49,4.28,defense,line_backer,OLB
+2612,2014,22.0,Missouri,1.9812,147.4175203,5.19,69.85,23.0,254.0,8.14,4.69,offense,offensive_lineman,OT
+2613,2010,22.0,Fresno St.,1.8288,96.16158244,4.59,85.09,15.0,287.02,,,offense,backs_receivers,WR
+2614,2013,21.0,Georgia,1.8288,96.61517481,4.46,91.44,25.0,304.8,7.01,4.25,defense,defensive_back,SS
+2615,2018,22.0,Iowa St.,1.9558,102.965468,4.55,96.52,17.0,309.88,,,offense,backs_receivers,WR
+2616,2010,23.0,Wayne State (MI),1.8034,99.7903214,4.68,92.71,,304.8,6.84,4.17,offense,backs_receivers,RB
+2617,2016,23.0,Oregon,1.9558,136.5313034,5.21,77.47,24.0,264.16,7.31,4.6,offense,offensive_lineman,OT
+2618,2018,21.0,Texas A&M,1.8034,92.98643585,,88.9,13.0,304.8,7.25,4.37,defense,defensive_back,S
+2619,2019,23.0,Boston Col.,1.9304,113.8516849,4.83,,17.0,,,,offense,backs_receivers,TE
+2620,2018,23.0,Georgia,1.8034,97.06876718,4.54,,22.0,,,4.21,offense,backs_receivers,RB
+2621,2011,23.0,Oklahoma,1.8796,118.8412009,5.14,72.39,22.0,269.24,7.19,4.46,defense,defensive_lineman,DE
+2622,2009,,Nebraska,1.8542,92.07925111,4.63,90.17,12.0,279.4,6.78,4.24,offense,backs_receivers,WR
+2623,2015,21.0,Florida,1.8796,104.7798375,4.61,80.01,20.0,284.48,,4.2,offense,backs_receivers,RB
+2624,2013,21.0,Alabama,1.9558,153.7678134,5.31,,21.0,,,,offense,offensive_lineman,OT
+2625,2019,23.0,Alabama,1.9304,139.2528576,5.2,57.15,20.0,,7.83,4.7,offense,offensive_lineman,OT
+2626,2009,22.0,Arizona St.,1.8288,93.44002822,4.58,80.01,12.0,297.18,7.06,4.3,defense,defensive_back,FS
+2627,2017,22.0,Florida,1.905,109.3157612,4.63,77.47,16.0,294.64,6.88,4.25,defense,line_backer,OLB
+2628,2013,22.0,San Jose St.,1.9558,136.9848957,5.08,74.93,25.0,284.48,7.49,4.45,offense,offensive_lineman,OT
+2629,2018,,Stony Brook,1.9812,141.5208194,,,27.0,,,,offense,offensive_lineman,OT
+2630,2009,23.0,Oregon,1.9558,142.4280042,5.2,64.77,24.0,238.76,8.33,5.02,offense,offensive_lineman,OT
+2631,2010,22.0,Florida,1.905,100.6975061,4.53,83.82,,289.56,,,offense,backs_receivers,WR
+2632,2010,,LSU,1.905,113.8516849,4.75,77.47,,269.24,7.54,4.8,defense,defensive_lineman,DE
+2633,2016,22.0,USC,1.8288,101.1510985,4.53,,24.0,,,,offense,backs_receivers,RB
+2634,2011,,West Virginia,1.7018,81.19303423,4.43,,24.0,,,,offense,backs_receivers,RB
+2635,2019,,Clemson,1.778,87.08973504,4.37,,18.0,,,,defense,defensive_back,CB
+2636,2011,23.0,Indiana,1.9812,146.5103355,5.21,66.04,25.0,254.0,7.84,4.81,offense,offensive_lineman,OT
+2637,2018,23.0,Jacksonville St.,1.8288,90.26488163,4.56,102.87,17.0,309.88,7.0,4.28,defense,defensive_back,S
+2638,2014,22.0,Utah St.,1.7526,86.1825503,4.48,83.82,16.0,304.8,7.12,4.4,defense,defensive_back,CB
+2639,2017,22.0,Washington,1.8542,141.9744118,5.13,80.01,33.0,266.7,7.65,4.66,defense,defensive_lineman,DT
+2640,2009,22.0,Auburn,1.8796,138.7992652,5.0,83.82,,,,,defense,defensive_lineman,DT
+2641,2015,23.0,North Dakota St.,1.905,115.6660544,4.77,86.36,27.0,304.8,7.1,4.25,defense,line_backer,OLB
+2642,2017,21.0,Clemson,1.8288,93.44002822,4.6,83.82,19.0,302.26,6.9,4.2,defense,defensive_back,SS
+2643,2015,22.0,South Carolina,1.7526,98.42954429,4.61,86.36,17.0,294.64,7.0,4.18,offense,backs_receivers,RB
+2644,2010,22.0,USC,1.9558,137.4384881,5.21,80.01,21.0,,,,offense,offensive_lineman,OT
+2645,2010,23.0,Utah,1.9304,140.6136347,5.28,,27.0,,,,offense,offensive_lineman,OG
+2646,2012,22.0,Miami (FL),1.9558,99.33672903,4.37,83.82,17.0,317.5,7.08,,offense,backs_receivers,WR
+2647,2014,23.0,Richmond,1.9558,120.6555704,4.97,86.36,31.0,287.02,,,defense,defensive_lineman,DE
+2648,2019,,Washburn,1.8034,88.90410452,4.47,100.33,15.0,342.9,6.82,4.14,defense,defensive_back,CB
+2649,2016,21.0,Mississippi,1.905,92.98643585,4.47,80.01,14.0,302.26,,,offense,backs_receivers,WR
+2650,2012,23.0,Pittsburgh,1.9304,134.2633415,5.31,64.77,19.0,251.46,7.74,4.62,defense,defensive_lineman,DT
+2651,2015,23.0,Oregon,1.778,81.6466266,4.55,82.55,,304.8,6.81,4.21,defense,defensive_back,CB
+2652,2009,22.0,Northwestern,1.7272,95.70799007,4.64,83.82,,289.56,6.94,4.32,offense,backs_receivers,RB
+2653,2019,,Fresno St.,1.905,95.2543977,4.83,76.2,10.0,299.72,7.1,4.46,defense,defensive_back,S
+2654,2013,21.0,Stanford,2.032,117.9340162,4.86,78.74,17.0,287.02,7.09,4.57,offense,backs_receivers,TE
+2655,2019,22.0,Georgia,1.8034,83.46099608,4.55,92.71,,297.18,6.96,,offense,backs_receivers,WR
+2656,2018,23.0,Pittsburgh,1.8796,95.70799007,4.43,96.52,15.0,327.66,7.24,4.41,offense,backs_receivers,WR
+2657,2013,24.0,BYU,1.9558,140.6136347,5.2,71.12,26.0,254.0,7.43,4.7,offense,offensive_lineman,OT
+2658,2013,22.0,Georgia,1.8288,85.72895793,4.47,92.71,11.0,312.42,6.91,4.33,offense,backs_receivers,WR
+2659,2015,23.0,New Mexico,1.8542,101.6046909,4.5,105.41,25.0,322.58,6.82,4.27,offense,backs_receivers,RB
+2660,2016,,Iowa,1.8542,89.35769689,4.61,,,,,,special_teams,kicking_specialist,K
+2661,2014,,BYU,1.8796,134.2633415,5.16,71.12,29.0,256.54,7.78,4.61,defense,defensive_lineman,DT
+2662,2018,21.0,Fordham,1.7526,92.98643585,4.55,86.36,19.0,309.88,6.79,4.07,offense,backs_receivers,RB
+2663,2016,23.0,Arkansas,1.8542,98.42954429,4.84,71.12,,279.4,7.06,4.33,offense,backs_receivers,QB
+2664,2010,23.0,Michigan,1.9304,108.8621688,4.79,,16.0,,,,special_teams,kicking_specialist,P
+2665,2014,21.0,Ohio St.,1.8034,87.99691978,4.39,97.79,17.0,314.96,,4.04,defense,defensive_back,CB
+2666,2016,21.0,Boise St.,1.905,110.2229459,4.69,83.82,21.0,274.32,,,defense,defensive_lineman,DE
+2667,2017,23.0,Cincinnati,1.8542,92.53284348,4.56,83.82,17.0,299.72,,,defense,defensive_back,FS
+2668,2013,22.0,Ohio St.,2.032,139.70645,5.14,76.2,33.0,287.02,7.62,4.68,offense,offensive_lineman,OT
+2669,2009,22.0,Illinois,1.8796,118.3876086,4.84,83.82,27.0,292.1,7.38,4.45,defense,defensive_lineman,DE
+2670,2009,21.0,Florida St.,1.8288,87.99691978,,,,,,,special_teams,kicking_specialist,K
+2671,2009,22.0,Rutgers,1.8542,83.46099608,4.31,105.41,7.0,327.66,6.62,4.11,offense,backs_receivers,WR
+2672,2011,22.0,West Virginia,1.778,87.08973504,4.43,,19.0,,,,defense,defensive_back,CB
+2673,2015,22.0,Texas-El Paso,1.9812,119.2947933,4.98,77.47,19.0,279.4,7.46,4.54,offense,backs_receivers,TE
+2674,2010,22.0,LSU,1.9304,140.1600423,5.15,93.98,,276.86,7.45,4.67,defense,defensive_lineman,DT
+2675,2016,23.0,Montana St.,1.9304,114.7588696,4.74,88.9,23.0,314.96,7.1,4.33,offense,backs_receivers,TE
+2676,2014,,UNLV,1.8288,94.80080533,4.48,87.63,,317.5,7.01,4.26,offense,backs_receivers,RB
+2677,2012,22.0,Oklahoma,1.9304,114.3052772,4.43,91.44,24.0,309.88,6.76,4.11,offense,backs_receivers,TE
+2678,2015,23.0,Oregon,1.905,134.7169339,5.03,,,,,,offense,offensive_lineman,C
+2679,2015,,Tenn-Chattanooga,1.9304,142.4280042,4.99,67.31,30.0,269.24,7.3,4.44,defense,defensive_lineman,DT
+2680,2019,21.0,Louisville,1.8796,99.33672903,4.47,87.63,14.0,309.88,7.55,4.48,offense,backs_receivers,WR
+2681,2015,23.0,East Carolina,1.8796,98.88313666,4.94,74.93,,264.16,7.17,4.45,offense,backs_receivers,QB
+2682,2015,22.0,Ala-Birmingham,1.778,70.76040972,4.28,91.44,,322.58,7.02,4.15,offense,backs_receivers,WR
+2683,2015,21.0,Oregon,1.9304,100.6975061,4.52,91.44,,307.34,6.87,4.11,offense,backs_receivers,QB
+2684,2010,21.0,LSU,1.8542,108.4085764,4.69,90.17,,302.26,6.97,4.25,defense,line_backer,OLB
+2685,2012,,Iowa,1.905,107.9549841,4.63,,21.0,,7.27,4.31,defense,line_backer,OLB
+2686,2012,20.0,Georgia Tech,1.9304,97.52235955,4.36,100.33,14.0,337.82,6.88,4.48,offense,backs_receivers,WR
+2687,2010,20.0,Florida,1.9304,137.8920805,5.25,,,241.3,7.74,4.92,offense,offensive_lineman,C
+2688,2011,21.0,California,1.778,95.2543977,4.49,86.36,31.0,292.1,6.95,4.28,offense,backs_receivers,RB
+2689,2011,22.0,Rutgers,1.8288,95.2543977,4.42,92.71,18.0,309.88,6.82,4.13,defense,defensive_back,SS
+2690,2017,21.0,Northwestern,1.8542,107.9549841,4.65,77.47,23.0,294.64,7.23,4.34,defense,line_backer,ILB
+2691,2018,21.0,Notre Dame,1.9558,147.4175203,,67.31,35.0,266.7,7.65,4.62,offense,offensive_lineman,OG
+2692,2017,,Auburn,1.8034,92.98643585,,,20.0,,,,defense,defensive_back,FS
+2693,2010,23.0,Washington,1.905,119.2947933,4.73,93.98,29.0,307.34,6.91,4.18,defense,defensive_lineman,DE
+2694,2009,22.0,Virginia,1.7526,97.97595192,4.34,101.6,27.0,297.18,6.99,4.29,offense,backs_receivers,RB
+2695,2014,21.0,Boise St.,1.905,113.8516849,4.8,87.63,20.0,287.02,7.46,4.31,defense,defensive_lineman,DE
+2696,2017,20.0,USC,1.8542,97.52235955,4.54,82.55,15.0,304.8,,,offense,backs_receivers,WR
+2697,2010,22.0,Texas,1.905,138.3456729,4.84,85.09,30.0,289.56,7.61,4.71,defense,defensive_lineman,DT
+2698,2009,22.0,Wake Forest,1.8288,105.2334298,4.56,80.01,19.0,307.34,7.22,4.39,defense,line_backer,ILB
+2699,2012,22.0,Miami (FL),1.778,78.01788764,4.31,96.52,14.0,302.26,,,offense,backs_receivers,WR
+2700,2011,21.0,Clemson,1.8034,105.6870222,4.53,92.71,24.0,304.8,7.16,4.39,offense,backs_receivers,RB
+2701,2016,22.0,Nebraska,1.8542,107.9549841,4.81,86.36,30.0,302.26,7.28,4.32,offense,backs_receivers,FB
+2702,2009,,Central Washington,1.905,97.06876718,4.74,77.47,,276.86,6.76,4.11,offense,backs_receivers,QB
+2703,2011,21.0,Buffalo,1.778,86.63614267,4.46,97.79,13.0,320.04,6.99,4.15,defense,defensive_back,CB
+2704,2015,22.0,South Carolina,2.0066,146.9639279,5.34,,28.0,,,,offense,offensive_lineman,OT
+2705,2009,,Florida,1.9812,144.2423737,5.51,62.23,18.0,228.6,7.89,5.03,offense,offensive_lineman,OT
+2706,2010,22.0,East Carolina,1.905,131.5417873,4.83,83.82,32.0,294.64,,4.77,defense,defensive_lineman,DE
+2707,2009,21.0,LSU,1.8288,109.7693535,4.63,67.31,23.0,279.4,7.39,4.5,defense,line_backer,ILB
+2708,2011,22.0,North Carolina,1.8542,109.3157612,4.75,86.36,21.0,292.1,,4.5,defense,line_backer,ILB
+2709,2011,24.0,East Carolina,1.9558,140.6136347,5.4,77.47,,269.24,7.95,4.83,offense,offensive_lineman,OT
+2710,2017,22.0,Michigan,1.8796,110.6765383,4.75,87.63,27.0,302.26,6.98,4.13,defense,line_backer,ILB
+2711,2019,23.0,Mississippi St.,1.9558,102.5118756,4.64,74.93,,292.1,,,offense,backs_receivers,QB
+2712,2018,22.0,Washington,1.905,132.448972,5.24,67.31,,279.4,7.62,4.59,offense,offensive_lineman,C
+2713,2009,22.0,Stanford,1.9812,125.1914941,4.86,80.01,26.0,294.64,7.24,4.4,defense,defensive_lineman,DE
+2714,2018,,Florida St.,1.8796,89.81128926,4.67,97.79,,307.34,,,defense,defensive_back,CB
+2715,2016,,Jacksonville St.,1.905,135.1705263,5.15,63.5,23.0,,7.9,4.97,defense,defensive_lineman,DT
+2716,2011,24.0,Abilene Christian,1.8288,87.08973504,4.31,101.6,16.0,332.74,,,offense,backs_receivers,WR
+2717,2010,23.0,LSU,1.8288,84.82177319,4.43,88.9,16.0,299.72,6.91,4.46,defense,defensive_back,CB
+2718,2016,23.0,Colorado,1.8542,93.44002822,4.69,88.9,12.0,289.56,7.09,4.2,offense,backs_receivers,WR
+2719,2012,22.0,Wake Forest,1.8034,89.81128926,4.35,85.09,19.0,299.72,6.97,4.23,offense,backs_receivers,WR
+2720,2017,,Washington St.,1.8034,85.72895793,4.56,74.93,11.0,297.18,7.01,4.2,offense,backs_receivers,WR
+2721,2014,23.0,UCLA,1.8542,96.61517481,4.51,87.63,13.0,309.88,7.07,4.21,offense,backs_receivers,WR
+2722,2014,22.0,McNeese St.,1.9558,122.0163475,4.89,,15.0,,,,offense,backs_receivers,TE
+2723,2012,22.0,Iowa,1.8288,131.9953797,4.84,,,,,,defense,defensive_lineman,DT
+2724,2017,23.0,Alabama,1.905,110.6765383,4.68,85.09,,314.96,7.36,4.57,defense,line_backer,OLB
+2725,2018,22.0,North Carolina St.,1.9304,141.0672271,4.99,67.31,35.0,256.54,7.28,4.53,defense,defensive_lineman,DT
+2726,2011,21.0,Temple,1.8288,89.81128926,4.62,76.2,14.0,287.02,6.95,4.14,defense,defensive_back,FS
+2727,2010,21.0,Alabama,1.9304,160.571699,5.71,52.07,,228.6,8.19,5.03,defense,defensive_lineman,DT
+2728,2012,23.0,Cincinnati,1.8796,140.1600423,5.32,,28.0,,,,defense,defensive_lineman,DT
+2729,2017,21.0,Penn St.,1.8542,94.80080533,4.42,91.44,19.0,320.04,7.01,4.0,offense,backs_receivers,WR
+2730,2017,22.0,Utah,1.8542,110.2229459,4.67,72.39,24.0,284.48,6.91,4.33,defense,line_backer,OLB
+2731,2012,23.0,Stanford,1.9812,112.0373154,4.51,,27.0,,,,offense,backs_receivers,TE
+2732,2018,22.0,UCLA,2.0574,140.1600423,4.95,80.01,24.0,307.34,7.34,4.49,offense,offensive_lineman,OT
+2733,2010,22.0,Clemson,1.7526,84.36818082,4.28,85.09,15.0,292.1,7.0,4.44,offense,backs_receivers,WR
+2734,2016,22.0,Notre Dame,1.9304,135.6241186,5.22,71.12,28.0,246.38,7.57,4.72,offense,offensive_lineman,C
+2735,2013,21.0,Vanderbilt,1.7272,97.97595192,4.55,83.82,27.0,309.88,6.7,4.17,offense,backs_receivers,RB
+2736,2016,22.0,LSU,1.9812,138.3456729,5.23,59.69,23.0,254.0,8.19,4.89,offense,offensive_lineman,OT
+2737,2016,23.0,Texas A&M,1.8796,96.16158244,4.95,,,,,,special_teams,kicking_specialist,P
+2738,2018,,West Georgia,1.9812,132.448972,4.9,,,,,,offense,offensive_lineman,OT
+2739,2014,21.0,Colorado,1.8288,79.37866475,4.4,96.52,,314.96,7.09,,offense,backs_receivers,WR
+2740,2015,,Alabama,1.778,82.55381134,4.63,82.55,8.0,302.26,6.91,4.19,offense,backs_receivers,WR
+2741,2015,21.0,Michigan St.,1.905,111.1301307,4.95,81.28,19.0,292.1,7.25,4.33,defense,line_backer,ILB
+2742,2016,,Oregon,1.8034,90.718474,4.83,74.93,,289.56,6.82,4.2,offense,backs_receivers,QB
+2743,2012,22.0,San Diego St.,1.9304,103.8726527,4.86,74.93,,274.32,7.52,4.45,offense,backs_receivers,QB
+2744,2011,23.0,Arizona,1.9304,118.3876086,4.84,90.17,30.0,302.26,7.24,4.32,defense,defensive_lineman,DE
+2745,2019,,Indiana,1.9304,142.4280042,,,,,,,offense,offensive_lineman,OT
+2746,2016,22.0,Northwestern,1.8542,108.4085764,4.6,97.79,30.0,312.42,7.12,4.12,offense,backs_receivers,FB
+2747,2009,22.0,Georgia Tech,1.8796,137.4384881,5.08,64.77,17.0,,,,defense,defensive_lineman,DT
+2748,2018,21.0,Oklahoma,1.9558,116.1196467,4.67,78.74,17.0,287.02,7.34,4.38,offense,backs_receivers,TE
+2749,2009,,Penn St.,1.9558,140.1600423,4.99,63.5,26.0,241.3,8.05,4.8,offense,offensive_lineman,OT
+2750,2018,,Middle Tennessee St.,1.778,83.00740371,4.48,90.17,6.0,309.88,6.87,4.16,offense,backs_receivers,WR
+2751,2010,22.0,Minnesota,1.905,98.42954429,4.54,,15.0,,,,offense,backs_receivers,WR
+2752,2016,23.0,Appalachian St.,1.8796,128.8202331,5.15,76.2,32.0,287.02,7.95,4.53,defense,defensive_lineman,DE
+2753,2014,,SE Louisiana,1.8034,88.90410452,4.57,,13.0,,,,defense,defensive_back,CB
+2754,2016,22.0,Purdue,1.8034,87.08973504,4.33,88.9,19.0,292.1,7.03,4.19,defense,defensive_back,CB
+2755,2014,23.0,Stanford,1.9304,111.583723,4.87,83.82,,276.86,7.04,4.35,offense,backs_receivers,FB
+2756,2014,21.0,Stanford,1.9558,146.5103355,5.28,59.69,26.0,246.38,8.24,5.0,offense,offensive_lineman,OT
+2757,2019,,Malone University (Ohio),1.8542,97.52235955,4.43,96.52,13.0,307.34,7.0,4.22,offense,backs_receivers,WR
+2758,2011,,Boston Col.,2.032,142.8815966,5.34,,,,,,offense,offensive_lineman,OT
+2759,2015,22.0,Alabama,1.8034,98.88313666,4.57,77.47,,292.1,,,offense,backs_receivers,QB
+2760,2015,21.0,Kentucky,1.9558,139.2528576,5.51,63.5,,246.38,7.91,4.87,offense,offensive_lineman,OT
+2761,2010,22.0,Texas,1.905,113.3980925,4.65,92.71,25.0,299.72,7.26,4.53,defense,line_backer,OLB
+2762,2009,21.0,Oregon,1.8034,96.16158244,4.49,86.36,25.0,302.26,,,defense,defensive_back,SS
+2763,2015,,Maryland,1.8288,87.08973504,4.51,86.36,12.0,304.8,6.98,4.27,offense,backs_receivers,WR
+2764,2019,23.0,Houston,1.8796,94.34721296,4.4,92.71,,337.82,6.81,4.06,defense,defensive_back,CB
+2765,2015,23.0,Washington St.,1.8796,101.6046909,4.67,90.17,,297.18,6.93,4.13,offense,backs_receivers,WR
+2766,2018,22.0,Ohio St.,1.9558,122.4699399,,88.9,,294.64,6.84,4.32,defense,defensive_lineman,DE
+2767,2012,23.0,Troy,1.905,138.7992652,5.19,64.77,24.0,259.08,7.7,4.78,offense,offensive_lineman,OG
+2768,2012,,Rice,1.9558,102.5118756,4.92,,,,,,special_teams,kicking_specialist,P
+2769,2019,,Georgia,1.778,98.42954429,4.78,74.93,26.0,299.72,,,offense,backs_receivers,RB
+2770,2019,,Kentucky,1.9304,112.9445001,,,,,,,offense,backs_receivers,TE
+2771,2012,22.0,North Dakota St.,1.9558,140.6136347,5.3,,25.0,,,,offense,offensive_lineman,OT
+2772,2019,23.0,South Carolina,1.8034,97.06876718,4.48,99.06,15.0,309.88,7.03,4.14,offense,backs_receivers,WR
+2773,2009,22.0,USC,1.8796,102.965468,4.93,82.55,,294.64,7.06,4.21,offense,backs_receivers,QB
+2774,2013,22.0,Kansas,1.9558,135.1705263,5.07,72.39,,284.48,7.52,4.51,offense,offensive_lineman,OT
+2775,2009,23.0,Hawaii,1.905,105.2334298,4.9,,15.0,,,,special_teams,other_special,LS
+2776,2017,,Tennessee St.,1.8034,85.72895793,4.47,86.36,13.0,330.2,,,defense,defensive_back,CB
+2777,2014,22.0,Montana,1.905,106.1406146,4.67,95.25,22.0,304.8,6.89,3.96,defense,line_backer,OLB
+2778,2017,20.0,Alabama,1.8288,89.35769689,4.41,,10.0,317.5,6.75,,defense,defensive_back,CB
+2779,2013,23.0,Alabama A&M,1.9558,141.9744118,5.37,58.42,17.0,233.68,8.12,4.74,offense,offensive_lineman,OG
+2780,2010,,UNLV,1.905,110.6765383,4.89,100.33,21.0,304.8,7.1,,defense,line_backer,ILB
+2781,2009,,Mississippi,1.8034,110.6765383,4.71,,21.0,,,,offense,backs_receivers,FB
+2782,2011,22.0,Tennessee,1.8288,87.99691978,4.43,91.44,13.0,299.72,6.78,4.15,offense,backs_receivers,WR
+2783,2014,,Auburn,1.9558,104.7798375,5.18,,,,,,special_teams,kicking_specialist,P
+2784,2016,22.0,Alabama,1.778,89.35769689,4.49,83.82,10.0,294.64,6.71,4.21,defense,defensive_back,CB
+2785,2013,22.0,Rice,1.9304,121.1091628,4.69,85.09,31.0,302.26,7.08,4.53,offense,backs_receivers,TE
+2786,2018,22.0,Virginia Tech,1.8288,91.17206637,,,,,,,offense,backs_receivers,WR
+2787,2009,21.0,West. Michigan,1.8034,91.62565874,4.52,93.98,12.0,320.04,6.67,4.17,defense,defensive_back,FS
+2788,2014,22.0,East. Illinois,1.8796,102.5118756,4.97,77.47,,279.4,7.04,4.26,offense,backs_receivers,QB
+2789,2013,22.0,Notre Dame,1.8796,96.61517481,4.75,90.17,11.0,320.04,6.75,4.16,defense,defensive_back,SS
+2790,2016,22.0,Baylor,1.8288,91.17206637,4.58,83.82,11.0,309.88,7.18,4.15,defense,defensive_back,CB
+2791,2013,22.0,Notre Dame,1.9558,113.3980925,4.68,90.17,22.0,302.26,6.92,4.32,offense,backs_receivers,TE
+2792,2016,22.0,Samford,1.8542,95.70799007,4.5,91.44,16.0,314.96,6.91,4.21,defense,defensive_back,CB
+2793,2013,21.0,Tennessee,1.9304,88.90410452,4.44,100.33,,345.44,,4.33,offense,backs_receivers,WR
+2794,2013,22.0,Arizona St.,1.8034,101.1510985,4.74,,,289.56,,,defense,line_backer,OLB
+2795,2017,22.0,North Carolina,1.8796,100.6975061,4.67,69.85,,294.64,6.87,4.25,offense,backs_receivers,QB
+2796,2012,23.0,Oklahoma,1.778,87.08973504,4.57,,21.0,,,,offense,backs_receivers,WR
+2797,2017,22.0,LSU,1.905,140.6136347,5.27,,18.0,,,,defense,defensive_lineman,DT
+2798,2015,21.0,USC,1.8288,89.81128926,4.42,,12.0,,,,offense,backs_receivers,WR
+2799,2009,24.0,Maryland,1.9558,115.6660544,4.79,83.82,26.0,309.88,6.92,4.26,offense,backs_receivers,TE
+2800,2011,23.0,Ohio St.,1.8542,99.33672903,4.59,78.74,19.0,,6.9,4.21,defense,defensive_back,SS
+2801,2017,20.0,Michigan St.,1.9812,133.8097492,4.85,72.39,23.0,284.48,7.69,4.53,defense,defensive_lineman,DT
+2802,2016,23.0,Duke,1.8288,96.16158244,4.56,,,,,,defense,defensive_back,SS
+2803,2015,23.0,Louisville,1.905,110.6765383,4.87,,28.0,,7.62,4.7,offense,backs_receivers,TE
+2804,2012,22.0,Cincinnati,1.778,89.35769689,4.39,83.82,,294.64,6.95,4.32,offense,backs_receivers,RB
+2805,2016,22.0,Colorado,1.8288,84.82177319,4.43,92.71,,302.26,,,defense,defensive_back,CB
+2806,2013,22.0,Oklahoma,1.9812,137.4384881,4.72,86.36,28.0,299.72,7.31,4.52,offense,offensive_lineman,OT
+2807,2012,22.0,Wake Forest,1.8542,96.61517481,4.54,82.55,19.0,302.26,7.21,4.32,defense,defensive_back,SS
+2808,2019,23.0,West Virginia,1.9558,141.5208194,,,32.0,,,,offense,offensive_lineman,OT
+2809,2018,,North Texas,1.8034,95.2543977,,,15.0,,,,offense,backs_receivers,RB
+2810,2013,22.0,South Florida,1.8542,111.583723,4.91,82.55,22.0,297.18,,,defense,line_backer,ILB
+2811,2019,23.0,Utah,2.0066,140.6136347,5.18,68.58,25.0,276.86,7.85,4.66,offense,offensive_lineman,OT
+2812,2018,,Maryland,1.8034,87.54332741,4.46,90.17,14.0,304.8,,,defense,defensive_back,CB
+2813,2010,22.0,Ohio,1.8288,92.53284348,4.4,93.98,16.0,289.56,6.82,4.34,offense,backs_receivers,WR
+2814,2017,22.0,Louisiana Tech,1.7272,82.10021897,4.63,83.82,13.0,297.18,6.74,4.01,offense,backs_receivers,WR
+2815,2013,22.0,Florida St.,1.8796,132.448972,5.06,76.2,23.0,261.62,7.61,4.88,defense,defensive_lineman,DT
+2816,2009,22.0,Penn St.,1.8034,81.19303423,4.58,96.52,,302.26,6.8,4.2,offense,backs_receivers,WR
+2817,2015,22.0,Nevada,1.8542,101.1510985,4.63,82.55,,299.72,6.95,4.1,offense,backs_receivers,QB
+2818,2018,,Virginia,1.8796,97.52235955,4.63,80.01,,309.88,,,defense,defensive_back,S
+2819,2018,21.0,Arkansas,1.9558,141.5208194,,,26.0,,,,offense,offensive_lineman,C
+2820,2009,24.0,Rice,1.905,111.583723,4.69,91.44,28.0,281.94,7.0,4.48,offense,backs_receivers,FB
+2821,2014,21.0,Florida St.,1.8796,135.6241186,5.06,74.93,27.0,259.08,,4.83,defense,defensive_lineman,DT
+2822,2016,23.0,Nebraska,1.9812,141.5208194,5.22,74.93,27.0,254.0,7.94,4.72,offense,offensive_lineman,OT
+2823,2018,22.0,Alabama,1.8288,83.00740371,4.63,83.82,,,,,defense,defensive_back,CB
+2824,2017,22.0,Youngstown St.,1.905,119.7483857,4.79,82.55,14.0,289.56,7.25,4.43,defense,defensive_lineman,DE
+2825,2015,21.0,Florida St.,1.8034,87.54332741,4.38,105.41,12.0,327.66,6.94,4.14,defense,defensive_back,CB
+2826,2014,21.0,Florida St.,1.7272,93.44002822,4.58,80.01,,299.72,7.11,4.26,offense,backs_receivers,RB
+2827,2009,22.0,Oregon,1.7526,94.80080533,4.57,88.9,20.0,292.1,,,offense,backs_receivers,RB
+2828,2010,21.0,Nevada,1.8542,92.07925111,4.43,71.12,8.0,299.72,,,defense,defensive_back,FS
+2829,2015,22.0,Louisville,1.778,81.6466266,4.44,87.63,,312.42,7.07,4.2,defense,defensive_back,CB
+2830,2011,21.0,Notre Dame,1.7272,90.26488163,4.59,,23.0,,,,offense,backs_receivers,RB
+2831,2015,,Washington St.,1.905,92.53284348,4.87,,,,,,offense,backs_receivers,QB
+2832,2012,22.0,Georgia,1.8796,142.8815966,5.0,,,,,,defense,defensive_lineman,DT
+2833,2018,,Idaho St.,1.905,144.2423737,5.1,73.66,,264.16,7.95,4.69,offense,offensive_lineman,OG
+2834,2012,20.0,Michigan St.,1.7272,92.53284348,4.44,88.9,20.0,281.94,7.27,4.31,offense,backs_receivers,RB
+2835,2010,,LSU,1.9304,148.324705,5.53,64.77,23.0,231.14,8.52,5.13,offense,offensive_lineman,OG
+2836,2013,22.0,Florida St.,1.9558,107.5013917,4.65,86.36,,299.72,7.08,4.21,offense,backs_receivers,QB
+2837,2016,22.0,Iowa,1.9304,123.830717,4.88,,,,,,defense,defensive_lineman,DE
+2838,2010,22.0,Oklahoma,1.9304,133.8097492,5.04,77.47,23.0,289.56,7.32,4.48,defense,defensive_lineman,DT
+2839,2011,,Cincinnati,1.8796,96.61517481,5.06,,,,,,special_teams,kicking_specialist,K
+2840,2014,24.0,Fresno St.,1.9812,117.4804238,4.85,88.9,24.0,292.1,7.38,4.6,offense,backs_receivers,TE
+2841,2018,23.0,Memphis,1.8034,91.17206637,,,22.0,,,,offense,backs_receivers,WR
+2842,2018,20.0,Miami (FL),1.905,142.4280042,5.25,,30.0,,,,defense,defensive_lineman,DT
+2843,2017,22.0,North Carolina St.,1.7526,92.98643585,4.47,71.12,18.0,276.86,,,offense,backs_receivers,RB
+2844,2018,21.0,Clemson,1.8796,91.62565874,4.43,85.09,11.0,292.1,6.71,4.37,offense,backs_receivers,WR
+2845,2013,21.0,Illinois,1.8542,139.2528576,5.15,76.2,37.0,271.78,7.82,4.72,defense,defensive_lineman,DT
+2846,2015,23.0,Texas A&M,1.9304,149.6854821,5.19,74.93,26.0,259.08,7.51,4.62,offense,offensive_lineman,OG
+2847,2015,21.0,Florida,2.032,161.0252914,5.21,59.69,20.0,246.38,8.23,4.78,offense,offensive_lineman,OG
+2848,2016,23.0,Florida St.,1.8288,93.44002822,4.76,83.82,14.0,289.56,7.08,4.33,defense,defensive_back,SS
+2849,2016,21.0,Notre Dame,1.8288,99.7903214,4.48,90.17,,307.34,,,offense,backs_receivers,RB
+2850,2016,22.0,Alabama,1.905,112.0373154,4.54,93.98,22.0,330.2,7.2,4.38,offense,backs_receivers,RB
+2851,2014,22.0,Michigan St.,1.8542,98.42954429,4.52,91.44,,320.04,7.06,4.18,offense,backs_receivers,WR
+2852,2013,22.0,Illinois,1.9558,115.6660544,4.78,83.82,22.0,287.02,6.91,4.44,defense,defensive_lineman,DE
+2853,2013,22.0,Jacksonville St.,1.778,87.54332741,4.59,83.82,14.0,297.18,,4.15,offense,backs_receivers,WR
+2854,2018,21.0,Penn St.,1.8796,91.62565874,,93.98,15.0,322.58,,4.32,defense,defensive_back,S
+2855,2016,21.0,Arkansas,1.9558,113.3980925,4.79,,13.0,,,,offense,backs_receivers,TE
+2856,2018,,West Virginia,1.8542,93.44002822,4.52,85.09,24.0,299.72,7.16,4.57,offense,backs_receivers,WR
+2857,2011,22.0,Southern Arkansas,1.905,140.1600423,5.25,68.58,23.0,256.54,7.7,4.71,defense,defensive_lineman,DT
+2858,2017,22.0,Pittsburgh,1.9558,136.077711,5.27,76.2,21.0,289.56,8.39,5.09,offense,offensive_lineman,OG
+2859,2016,21.0,Baylor,1.8542,141.0672271,5.05,69.85,31.0,287.02,8.05,4.82,defense,defensive_lineman,DT
+2860,2015,22.0,Kentucky,1.9304,124.2843094,4.83,73.66,23.0,287.02,7.42,4.66,defense,defensive_lineman,DE
+2861,2013,20.0,Clemson,1.8542,97.06876718,4.57,91.44,15.0,292.1,,4.5,offense,backs_receivers,WR
+2862,2013,22.0,Texas A&M,1.8542,103.8726527,4.75,88.9,22.0,302.26,,,defense,line_backer,OLB
+2863,2014,23.0,Pittsburgh,1.9304,103.4190604,4.97,68.58,,266.7,7.33,4.36,offense,backs_receivers,QB
+2864,2011,22.0,Iowa,1.8796,87.54332741,4.9,,,,,,special_teams,kicking_specialist,P
+2865,2015,20.0,Minnesota,1.9304,112.9445001,4.78,87.63,17.0,297.18,7.3,4.37,offense,backs_receivers,TE
+2866,2017,22.0,Drake,1.9558,114.7588696,,83.82,22.0,307.34,,,offense,backs_receivers,TE
+2867,2016,23.0,North Carolina St.,1.9304,104.7798375,4.94,78.74,,287.02,7.17,4.53,offense,backs_receivers,QB
+2868,2012,21.0,Boise St.,1.9304,102.0582833,4.6,87.63,20.0,314.96,7.03,4.03,defense,defensive_back,FS
+2869,2009,21.0,North Carolina,1.8542,96.16158244,4.51,91.44,,,,,offense,backs_receivers,WR
+2870,2010,,Alabama,1.9304,131.9953797,5.21,76.2,25.0,271.78,7.4,4.68,defense,defensive_lineman,DT
+2871,2018,22.0,Indiana,1.905,99.7903214,4.64,76.2,11.0,287.02,6.7,4.32,offense,backs_receivers,WR
+2872,2009,21.0,Miami (FL),1.7526,77.1107029,4.42,87.63,6.0,317.5,6.71,4.05,defense,defensive_back,CB
+2873,2013,22.0,Connecticut,1.8034,91.17206637,4.47,96.52,22.0,317.5,6.7,4.15,defense,defensive_back,CB
+2874,2013,23.0,Kansas St.,1.9558,102.5118756,4.78,73.66,,281.94,7.17,4.4,offense,backs_receivers,QB
+2875,2011,22.0,Florida,1.905,99.33672903,4.85,,,,,,special_teams,kicking_specialist,P
+2876,2014,24.0,North Carolina,1.905,103.4190604,4.87,64.77,,274.32,7.22,4.3,offense,backs_receivers,QB
+2877,2019,22.0,Northwestern St. (LA),1.9558,102.965468,4.45,93.98,8.0,312.42,7.25,4.59,offense,backs_receivers,WR
+2878,2017,,Texas A&M,1.8542,99.33672903,4.54,90.17,,317.5,7.04,4.14,offense,backs_receivers,QB
+2879,2018,22.0,Indiana,1.8796,111.1301307,4.78,,23.0,,,,defense,line_backer,OLB
+2880,2015,22.0,Miami (FL),1.8034,107.0477993,4.78,81.28,27.0,287.02,,,defense,line_backer,ILB
+2881,2017,22.0,UCLA,1.8288,104.7798375,4.7,80.01,17.0,304.8,,,defense,line_backer,ILB
+2882,2013,24.0,Cincinnati,1.8542,87.54332741,4.54,85.09,8.0,307.34,6.88,4.21,offense,backs_receivers,WR
+2883,2011,22.0,Syracuse,1.8796,106.594207,4.62,91.44,18.0,307.34,7.09,4.57,defense,line_backer,OLB
+2884,2011,24.0,Arizona,1.8796,119.2947933,4.65,77.47,30.0,287.02,7.11,4.28,defense,line_backer,OLB
+2885,2018,21.0,Louisville,1.8034,87.08973504,4.38,88.9,14.0,322.58,6.71,3.98,defense,defensive_back,CB
+2886,2012,22.0,Nebraska,1.9304,126.5522712,4.91,78.74,,264.16,7.47,4.4,defense,defensive_lineman,DE
+2887,2010,22.0,Oklahoma,1.8542,91.62565874,4.65,90.17,20.0,304.8,6.76,4.22,defense,defensive_back,CB
+2888,2012,,San Diego St.,1.8288,95.70799007,4.78,,,,,,special_teams,kicking_specialist,P
+2889,2014,22.0,Boise St.,1.9304,137.4384881,5.25,73.66,21.0,274.32,7.57,4.4,offense,offensive_lineman,OG
+2890,2013,22.0,Tennessee,1.905,109.7693535,4.81,78.74,17.0,284.48,7.17,4.43,offense,backs_receivers,TE
+2891,2018,,Utah,1.8796,142.8815966,,,28.0,,,,defense,defensive_lineman,DT
+2892,2013,23.0,Florida St.,1.8034,102.965468,4.7,76.2,17.0,289.56,7.28,4.55,offense,backs_receivers,FB
+2893,2014,22.0,San Jose St.,1.8034,88.45051215,4.59,102.87,10.0,309.88,6.94,4.38,defense,defensive_back,CB
+2894,2013,23.0,Connecticut,1.8542,88.45051215,4.53,91.44,14.0,325.12,6.97,4.12,defense,defensive_back,CB
+2895,2011,23.0,Kansas St.,1.8288,104.3262451,4.62,,21.0,,,,offense,backs_receivers,RB
+2896,2012,20.0,Virginia Tech,1.778,93.44002822,4.38,104.14,,335.28,7.09,4.12,offense,backs_receivers,RB
+2897,2011,23.0,Nebraska,1.8542,80.28584949,4.87,,,,,,special_teams,kicking_specialist,K
+2898,2019,,Michigan St.,1.8288,102.965468,,83.82,21.0,304.8,7.27,4.34,offense,backs_receivers,RB
+2899,2015,20.0,Miami (FL),1.9812,149.2318897,5.31,,37.0,,,,offense,offensive_lineman,OT
+2900,2016,22.0,Auburn,1.778,103.4190604,4.64,82.55,20.0,281.94,7.0,4.21,offense,backs_receivers,RB
+2901,2019,21.0,LSU,1.8796,83.91458845,4.37,,,,,,defense,defensive_back,CB
+2902,2019,,Missouri,1.9812,143.7887813,5.18,68.58,16.0,261.62,7.68,4.74,offense,offensive_lineman,OT
+2903,2011,22.0,Georgia,1.9304,95.70799007,4.48,87.63,18.0,320.04,6.91,4.21,offense,backs_receivers,WR
+2904,2013,22.0,San Diego St.,1.9812,115.212462,4.84,81.28,,289.56,7.07,4.31,offense,backs_receivers,TE
+2905,2015,24.0,Alabama,1.8034,115.212462,4.94,85.09,23.0,289.56,7.56,4.4,offense,backs_receivers,FB
+2906,2017,20.0,North Carolina,1.8288,105.2334298,,,18.0,,,,offense,backs_receivers,RB
+2907,2014,21.0,Indiana,1.8796,97.52235955,4.52,,23.0,,,,offense,backs_receivers,WR
+2908,2016,21.0,Indiana,1.8288,104.3262451,4.57,86.36,16.0,309.88,,,offense,backs_receivers,RB
+2909,2016,22.0,Oklahoma St.,1.9558,119.7483857,4.87,,20.0,,,,defense,defensive_lineman,DE
+2910,2011,22.0,Arkansas,1.8796,111.1301307,4.59,85.09,20.0,281.94,7.29,4.51,offense,backs_receivers,TE
+2911,2009,23.0,Jackson St.,1.8542,89.35769689,4.5,81.28,7.0,294.64,7.0,4.3,defense,defensive_back,CB
+2912,2013,22.0,Georgia Tech,1.8034,85.72895793,4.42,93.98,11.0,314.96,,,defense,defensive_back,CB
+2913,2013,21.0,California,1.905,142.4280042,4.99,67.31,31.0,274.32,7.31,4.74,offense,offensive_lineman,C
+2914,2014,23.0,Connecticut,1.9558,140.1600423,5.25,77.47,25.0,261.62,,,defense,defensive_lineman,DT
+2915,2009,23.0,Nebraska,1.9558,143.3351889,5.26,86.36,,279.4,7.86,4.86,offense,offensive_lineman,OG
+2916,2010,20.0,UCLA,1.8542,137.4384881,5.12,72.39,34.0,243.84,,,defense,defensive_lineman,DT
+2917,2010,,Boston Col.,1.8288,109.7693535,4.84,97.79,29.0,289.56,6.85,4.11,defense,line_backer,ILB
+2918,2014,22.0,Penn St.,1.905,141.9744118,5.31,73.66,30.0,259.08,7.55,4.47,offense,offensive_lineman,OG
+2919,2017,,Indiana (PA),1.8796,146.0567431,5.36,62.23,26.0,251.46,8.02,4.88,offense,offensive_lineman,OG
+2920,2014,21.0,Alabama,1.8796,106.1406146,4.65,88.9,,299.72,7.3,4.4,defense,line_backer,ILB
+2921,2015,20.0,Penn St.,2.0066,118.3876086,4.83,95.25,26.0,307.34,7.53,4.5,offense,backs_receivers,TE
+2922,2017,20.0,Washington,1.8288,84.36818082,4.47,85.09,,312.42,7.02,4.28,defense,defensive_back,CB
+2923,2014,23.0,Arkansas,1.9558,141.5208194,5.28,66.04,20.0,241.3,7.73,4.65,offense,offensive_lineman,C
+2924,2017,23.0,LSU,1.8542,91.62565874,4.57,77.47,,294.64,7.29,4.55,offense,backs_receivers,WR
+2925,2018,,Auburn,1.8034,85.72895793,4.53,86.36,,307.34,,,defense,defensive_back,S
+2926,2018,,Central Florida,1.8796,92.07925111,4.49,95.25,12.0,330.2,6.97,4.5,offense,backs_receivers,WR
+2927,2011,21.0,USC,1.8542,136.077711,5.04,69.85,26.0,256.54,7.51,4.78,defense,defensive_lineman,DT
+2928,2017,21.0,West Virginia,1.8796,94.80080533,4.59,85.09,16.0,304.8,6.97,4.26,defense,defensive_back,CB
+2929,2009,22.0,Iowa,1.9304,132.9025644,5.05,,30.0,,,,offense,offensive_lineman,C
+2930,2009,23.0,Michigan St.,1.8796,97.52235955,5.02,81.28,,276.86,7.1,4.42,offense,backs_receivers,QB
+2931,2011,23.0,Auburn,1.778,104.7798375,4.37,95.25,21.0,292.1,6.99,4.21,offense,backs_receivers,RB
+2932,2014,22.0,LSU,1.8034,122.9235323,4.95,72.39,23.0,281.94,7.68,4.58,offense,backs_receivers,FB
+2933,2016,22.0,Oklahoma,1.8034,83.91458845,4.5,90.17,19.0,294.64,,,defense,defensive_back,CB
+2934,2013,24.0,Fresno St.,1.8288,94.34721296,4.65,88.9,14.0,309.88,,,defense,defensive_back,FS
+2935,2009,23.0,Virginia Tech,1.8034,89.81128926,4.46,85.09,,299.72,6.68,3.98,defense,defensive_back,CB
+2936,2015,21.0,Florida St.,1.9304,104.7798375,4.97,72.39,,261.62,7.16,4.36,offense,backs_receivers,QB
+2937,2017,,Washington,1.8796,120.6555704,,,24.0,,,,defense,defensive_lineman,DE
+2938,2016,22.0,Penn St.,2.0066,125.6450865,4.84,72.39,21.0,289.56,7.27,4.37,defense,defensive_lineman,DE
+2939,2012,23.0,Oklahoma St.,1.8034,86.1825503,4.65,,11.0,,,,offense,backs_receivers,WR
+2940,2018,22.0,Central Florida,1.8542,102.965468,4.38,,20.0,297.18,,,defense,line_backer,OLB
+2941,2014,24.0,Shepherd,1.8796,106.594207,4.6,102.87,21.0,314.96,7.16,4.41,defense,line_backer,OLB
+2942,2017,21.0,Colorado,1.905,89.81128926,4.45,102.87,,322.58,6.93,4.13,defense,defensive_back,CB
+2943,2014,22.0,Iowa,1.9304,135.1705263,5.3,63.5,21.0,256.54,7.44,4.61,offense,offensive_lineman,OG
+2944,2013,21.0,Michigan St.,1.9812,127.459456,4.96,72.39,23.0,279.4,7.2,4.59,defense,defensive_lineman,DE
+2945,2016,22.0,Notre Dame,1.8288,97.97595192,4.58,83.82,18.0,302.26,,4.51,defense,defensive_back,SS
+2946,2013,,Florida St.,1.7272,86.1825503,4.46,,10.0,,,,defense,defensive_back,CB
+2947,2015,21.0,Virginia Tech,1.778,90.718474,4.57,83.82,21.0,276.86,6.95,4.4,defense,defensive_back,SS
+2948,2010,,Florida St.,1.8796,97.52235955,4.59,91.44,21.0,314.96,6.94,4.15,defense,defensive_back,SS
+2949,2017,22.0,Missouri,1.905,114.7588696,4.82,81.28,21.0,276.86,7.47,4.42,defense,defensive_lineman,DE
+2950,2016,21.0,Baylor,1.8034,87.99691978,4.42,102.87,17.0,327.66,,,offense,backs_receivers,WR
+2951,2011,23.0,North Carolina St.,1.8796,88.45051215,4.51,95.25,6.0,317.5,6.86,4.18,offense,backs_receivers,WR
+2952,2013,22.0,Washington,1.8288,86.1825503,4.38,95.25,16.0,317.5,,3.85,defense,defensive_back,CB
+2953,2010,,Minnesota,1.8288,105.2334298,4.59,101.6,21.0,312.42,7.3,4.43,defense,line_backer,OLB
+2954,2014,23.0,West Texas A&M,1.905,121.1091628,4.9,73.66,19.0,279.4,7.3,4.67,defense,defensive_lineman,DE
+2955,2010,23.0,Troy,1.9304,120.6555704,5.0,72.39,20.0,264.16,,4.68,defense,defensive_lineman,DE
+2956,2014,21.0,Louisville,1.905,113.8516849,4.66,88.9,23.0,307.34,7.48,4.47,defense,defensive_lineman,DE
+2957,2012,21.0,South Carolina St.,1.8288,95.70799007,4.42,80.01,18.0,309.88,7.33,4.13,defense,defensive_back,FS
+2958,2013,21.0,Syracuse,1.8542,91.62565874,4.59,81.28,7.0,284.48,7.04,4.29,offense,backs_receivers,WR
+2959,2011,21.0,Wisconsin,1.9558,131.5417873,4.81,93.98,34.0,304.8,6.88,4.21,defense,defensive_lineman,DE
+2960,2011,22.0,Portland St.,1.9558,111.583723,4.64,90.17,16.0,281.94,6.96,4.31,offense,backs_receivers,TE
+2961,2017,,Texas A&M,1.8034,90.26488163,,110.49,18.0,337.82,,,offense,backs_receivers,WR
+2962,2009,22.0,Oklahoma,1.8796,131.9953797,5.09,74.93,31.0,266.7,7.46,4.6,offense,offensive_lineman,C
+2963,2019,21.0,Clemson,1.8542,90.26488163,4.46,87.63,,312.42,,,defense,defensive_back,CB
+2964,2016,,Washington,1.905,107.9549841,4.73,74.93,,289.56,7.11,4.32,defense,line_backer,OLB
+2965,2015,,Colorado St.,1.7018,90.26488163,4.8,83.82,,287.02,7.2,4.38,offense,backs_receivers,RB
+2966,2012,23.0,West. Michigan,1.8288,94.34721296,4.63,88.9,14.0,302.26,6.84,4.13,offense,backs_receivers,WR
+2967,2013,20.0,Texas A&M,1.9304,113.3980925,4.95,90.17,12.0,309.88,,,defense,defensive_lineman,DE
+2968,2013,22.0,Boise St.,1.8034,87.08973504,4.39,88.9,22.0,322.58,6.82,4.06,defense,defensive_back,CB
+2969,2014,23.0,Virginia Tech,1.8288,96.61517481,4.59,88.9,17.0,297.18,7.05,4.13,defense,defensive_back,CB
+2970,2018,21.0,Iowa,1.8542,87.08973504,4.56,96.52,18.0,312.42,6.86,4.03,defense,defensive_back,CB
+2971,2011,24.0,Wisconsin,1.9304,144.695966,5.51,77.47,23.0,259.08,7.79,4.53,offense,offensive_lineman,OG
+2972,2017,22.0,West Virginia,1.8542,121.5627552,4.83,77.47,27.0,279.4,,,defense,defensive_lineman,DE
+2973,2017,22.0,Louisville,1.9304,112.4909078,5.19,71.12,,292.1,,,special_teams,other_special,LS
+2974,2013,22.0,Alabama,1.8034,104.7798375,4.55,,,,,,offense,backs_receivers,RB
+2975,2016,20.0,Alabama,1.9304,139.2528576,5.2,66.04,22.0,269.24,7.8,4.74,defense,defensive_lineman,DT
+2976,2012,22.0,Montana,1.8796,92.53284348,4.5,90.17,19.0,309.88,7.2,4.15,defense,defensive_back,CB
+2977,2010,23.0,USC,1.8288,87.08973504,4.41,87.63,19.0,320.04,6.82,4.18,defense,defensive_back,CB
+2978,2012,,North Carolina,1.8796,141.0672271,5.28,72.39,29.0,251.46,7.31,4.62,defense,defensive_lineman,DT
+2979,2013,21.0,USC,1.7018,76.65711053,4.53,95.25,10.0,322.58,6.74,4.09,defense,defensive_back,CB
+2980,2015,23.0,Oklahoma,1.8796,92.98643585,4.58,91.44,,317.5,6.94,4.22,defense,defensive_back,CB
+2981,2010,,Duke,1.9558,137.4384881,5.46,66.04,27.0,228.6,7.84,,defense,defensive_lineman,DT
+2982,2013,23.0,Elon,1.8796,98.42954429,4.54,85.09,9.0,312.42,7.11,4.41,offense,backs_receivers,WR
+2983,2012,23.0,Miami (FL),1.905,145.1495584,5.14,63.5,28.0,256.54,8.22,4.87,offense,offensive_lineman,OG
+2984,2012,22.0,Syracuse,1.9558,120.6555704,4.77,88.9,22.0,304.8,7.07,4.38,defense,defensive_lineman,DE
+2985,2012,,Oklahoma St.,1.778,93.44002822,4.57,90.17,20.0,312.42,7.01,4.25,defense,defensive_back,SS
+2986,2016,22.0,Utah St.,1.8796,108.4085764,4.72,80.01,,292.1,6.73,4.0,defense,line_backer,ILB
+2987,2011,22.0,Maryland,1.8542,92.53284348,4.41,104.14,19.0,320.04,6.72,4.13,offense,backs_receivers,WR
+2988,2012,21.0,North Carolina St.,1.8796,107.5013917,4.71,82.55,22.0,289.56,7.18,4.43,defense,line_backer,OLB
+2989,2012,23.0,USC,1.905,138.7992652,4.97,,,,,,defense,defensive_lineman,DT
+2990,2019,21.0,San Diego St.,1.9812,141.5208194,5.21,77.47,18.0,274.32,7.75,4.76,offense,offensive_lineman,OT
+2991,2015,22.0,Southern Illinois,1.8796,113.8516849,4.58,96.52,17.0,299.72,7.25,4.37,offense,backs_receivers,TE
+2992,2009,22.0,Texas,1.905,119.2947933,4.63,100.33,31.0,,,,defense,defensive_lineman,DE
+2993,2016,22.0,UCLA,1.8034,83.00740371,4.96,,,,,,special_teams,kicking_specialist,K
+2994,2014,24.0,Southern Miss,1.905,137.8920805,5.03,73.66,28.0,284.48,7.83,4.76,defense,defensive_lineman,DT
+2995,2010,21.0,Georgia Tech,1.8542,94.80080533,4.51,,16.0,,,,defense,defensive_back,FS
+2996,2019,22.0,Temple,1.8288,87.08973504,4.51,100.33,18.0,304.8,7.31,4.31,defense,defensive_back,CB
+2997,2010,22.0,Minnesota,1.905,113.3980925,4.7,83.82,20.0,292.1,7.02,4.37,defense,line_backer,OLB
+2998,2010,23.0,TCU,1.8796,104.3262451,4.58,78.74,17.0,289.56,,,defense,line_backer,OLB
+2999,2014,23.0,Oklahoma,1.9304,137.8920805,5.13,66.04,22.0,261.62,7.3,4.37,offense,offensive_lineman,C
+3000,2010,21.0,Kentucky,1.905,136.077711,4.98,83.82,,248.92,7.56,4.76,defense,defensive_lineman,DT
+3001,2013,21.0,Ohio St.,1.8034,107.9549841,5.0,81.28,25.0,276.86,7.28,4.44,offense,backs_receivers,FB
+3002,2013,23.0,Arkansas,1.8796,97.52235955,4.95,72.39,,284.48,7.22,4.39,offense,backs_receivers,QB
+3003,2017,21.0,Michigan,1.8542,97.97595192,4.47,85.09,17.0,292.1,6.96,4.27,defense,defensive_back,FS
+3004,2013,23.0,Tennessee,1.9558,138.7992652,5.08,,,,,,offense,offensive_lineman,OT
+3005,2015,21.0,South Alabama,1.905,112.4909078,4.65,91.44,,302.26,7.29,4.49,offense,backs_receivers,TE
+3006,2013,,Arkansas,1.8542,96.61517481,4.74,73.66,11.0,279.4,,,special_teams,kicking_specialist,P
+3007,2018,23.0,Washington St.,1.9304,97.52235955,,67.31,,261.62,,,offense,backs_receivers,QB
+3008,2019,22.0,Oklahoma,1.7526,96.61517481,,,,,,,special_teams,kicking_specialist,K
+3009,2011,21.0,Alabama,1.9304,145.6031508,5.22,,23.0,,,,offense,offensive_lineman,OT
+3010,2010,22.0,Ohio St.,1.8796,110.2229459,4.78,81.28,32.0,292.1,6.84,4.27,defense,line_backer,OLB
+3011,2018,,South Florida,1.778,97.06876718,4.63,,,284.48,6.81,4.57,offense,backs_receivers,QB
+3012,2009,22.0,LSU,1.905,133.8097492,5.19,66.04,25.0,236.22,,,defense,defensive_lineman,DT
+3013,2013,21.0,LSU,1.778,103.4190604,4.62,,,,,,offense,backs_receivers,RB
+3014,2015,20.0,LSU,1.9558,114.3052772,4.57,,25.0,,,,defense,defensive_lineman,DE
+3015,2018,22.0,Penn St.,1.9558,112.0373154,4.54,105.41,22.0,327.66,6.76,4.1,offense,backs_receivers,TE
+3016,2013,21.0,Florida,1.8542,111.1301307,4.59,82.55,22.0,299.72,6.99,4.24,defense,line_backer,OLB
+3017,2018,21.0,Washington,1.9304,118.8412009,4.87,71.12,15.0,281.94,7.07,4.4,offense,backs_receivers,TE
+3018,2013,,Texas A&M,1.9304,109.7693535,4.68,78.74,19.0,299.72,7.44,4.53,defense,line_backer,ILB
+3019,2018,,Alabama,1.9304,134.7169339,4.83,80.01,28.0,281.94,7.98,4.62,defense,defensive_lineman,DE
+3020,2011,21.0,Villanova,1.9304,143.7887813,5.2,,,,,,offense,offensive_lineman,OG
+3021,2018,23.0,Florida,1.8288,94.34721296,,,16.0,,,,defense,defensive_back,S
+3022,2010,22.0,East Carolina,1.8542,101.6046909,,,,,,,special_teams,kicking_specialist,P
+3023,2009,23.0,Wake Forest,1.7526,87.54332741,4.47,86.36,13.0,317.5,7.09,4.38,defense,defensive_back,CB
+3024,2011,,Houston,1.905,136.077711,6.0,63.5,23.0,208.28,9.04,5.56,offense,offensive_lineman,OG
+3025,2018,,Miami (FL),1.9812,141.0672271,5.35,59.69,26.0,246.38,7.72,4.82,offense,offensive_lineman,OG
+3026,2014,22.0,Kent St.,1.7272,78.47148001,4.26,96.52,20.0,309.88,6.86,4.06,offense,backs_receivers,WR
+3027,2011,23.0,Nebraska,1.905,139.70645,5.68,60.96,20.0,228.6,7.98,4.68,offense,offensive_lineman,OG
+3028,2017,24.0,Utah,1.9558,134.7169339,4.95,71.12,,292.1,7.29,4.55,offense,offensive_lineman,OT
+3029,2012,,Oregon,1.905,99.7903214,4.77,91.44,14.0,307.34,7.17,4.28,offense,backs_receivers,QB
+3030,2011,21.0,Mississippi St.,1.9558,145.6031508,5.18,71.12,23.0,246.38,7.43,4.63,offense,offensive_lineman,OT
+3031,2018,,Stanford,1.9558,139.2528576,,,,,,,offense,offensive_lineman,OT
+3032,2014,23.0,Georgia,1.9558,117.0268315,4.82,74.93,28.0,294.64,7.38,4.35,offense,backs_receivers,TE
+3033,2016,22.0,Arkansas,1.9304,151.953444,5.55,57.15,19.0,238.76,8.72,5.06,offense,offensive_lineman,OT
+3034,2009,23.0,Texas A&M,1.905,102.0582833,4.61,83.82,,284.48,7.34,4.49,offense,backs_receivers,QB
+3035,2013,23.0,Georgia,1.9304,156.94296,5.21,,30.0,,,,defense,defensive_lineman,DT
+3036,2017,21.0,Florida,1.8542,107.9549841,,,,,,,defense,line_backer,ILB
+3037,2019,,South Alabama,1.905,97.52235955,4.63,82.55,16.0,302.26,,4.66,offense,backs_receivers,WR
+3038,2014,23.0,Florida St.,1.7272,83.46099608,4.55,95.25,14.0,314.96,7.26,4.4,defense,defensive_back,CB
+3039,2012,,Oklahoma St.,1.905,119.2947933,4.81,82.55,28.0,284.48,7.22,4.2,defense,defensive_lineman,DE
+3040,2013,22.0,East. Washington,1.9558,97.97595192,4.67,85.09,9.0,292.1,7.11,4.44,offense,backs_receivers,WR
+3041,2018,,LSU,1.905,92.53284348,,83.82,10.0,304.8,,,defense,defensive_back,CB
+3042,2012,,Illinois,1.8034,80.73944186,5.02,,,,,,special_teams,kicking_specialist,K
+3043,2013,23.0,Ohio St.,1.905,114.3052772,4.65,87.63,18.0,294.64,7.12,4.27,offense,backs_receivers,TE
+3044,2015,22.0,South Carolina,1.9558,110.6765383,4.73,,,,,,offense,backs_receivers,TE
+3045,2012,,California,1.905,129.2738255,5.01,78.74,,266.7,7.45,4.53,defense,defensive_lineman,DE
+3046,2009,,Stanford,1.8288,97.97595192,4.54,91.44,17.0,309.88,7.08,4.4,offense,backs_receivers,RB
+3047,2011,20.0,North Carolina,1.9304,120.2019781,4.62,86.36,22.0,294.64,7.13,4.4,defense,defensive_lineman,DE
+3048,2012,24.0,Coastal Carolina,1.8288,89.35769689,4.61,83.82,14.0,314.96,7.09,4.23,defense,defensive_back,CB
+3049,2015,21.0,Maryland,1.8288,88.45051215,4.46,88.9,,292.1,7.03,4.32,offense,backs_receivers,WR
+3050,2009,23.0,Mississippi,1.778,97.06876718,4.43,85.09,29.0,294.64,7.02,4.2,defense,defensive_back,SS
+3051,2010,,Virginia Tech,1.8034,83.00740371,4.69,86.36,12.0,287.02,7.11,4.35,defense,defensive_back,CB
+3052,2015,22.0,Oregon St.,1.9812,103.8726527,5.14,78.74,,266.7,7.29,4.39,offense,backs_receivers,QB
+3053,2012,22.0,Nevada,1.8288,98.42954429,4.54,91.44,20.0,,6.88,4.19,offense,backs_receivers,WR
+3054,2018,21.0,Kansas St.,1.7526,85.27536556,4.51,92.71,11.0,,,,defense,defensive_back,CB
+3055,2012,22.0,Mississippi,1.9812,143.3351889,5.18,69.85,22.0,261.62,7.7,4.95,offense,offensive_lineman,OT
+3056,2012,22.0,Texas A&M,1.778,84.82177319,4.44,88.9,16.0,307.34,6.59,4.03,defense,defensive_back,CB
+3057,2009,,Boise St.,1.8288,90.718474,4.47,85.09,,292.1,6.9,4.26,offense,backs_receivers,WR
+3058,2019,,Alabama,1.8542,90.26488163,,83.82,11.0,307.34,7.09,4.37,defense,defensive_back,CB
+3059,2019,,Michigan,1.8034,88.90410452,4.45,100.33,15.0,304.8,6.45,3.97,defense,defensive_back,CB
+3060,2017,22.0,Wisconsin,1.778,99.7903214,4.68,72.39,19.0,292.1,,,offense,backs_receivers,RB
+3061,2014,22.0,Pittsburgh,1.8542,129.2738255,4.68,81.28,35.0,294.64,7.11,4.39,defense,defensive_lineman,DT
+3062,2012,22.0,Arizona,1.8796,101.6046909,4.66,96.52,17.0,297.18,7.15,4.3,offense,backs_receivers,WR
+3063,2014,22.0,Missouri,1.9304,98.88313666,4.6,91.44,20.0,314.96,7.07,4.25,offense,backs_receivers,WR
+3064,2014,21.0,North Carolina,1.905,140.6136347,5.18,73.66,42.0,276.86,8.26,4.66,offense,offensive_lineman,OG
+3065,2010,21.0,UCLA,1.778,85.72895793,4.52,81.28,11.0,294.64,6.7,4.12,defense,defensive_back,CB
+3066,2012,22.0,Florida St.,1.9812,145.1495584,5.33,68.58,28.0,254.0,8.15,4.99,offense,offensive_lineman,OT
+3067,2017,22.0,Florida,1.905,139.2528576,5.14,68.58,21.0,266.7,7.66,4.62,defense,defensive_lineman,DT
+3068,2017,20.0,Miami (FL),1.9304,111.583723,4.64,95.25,21.0,337.82,6.97,4.34,offense,backs_receivers,TE
+3069,2015,23.0,Florida,1.9558,146.5103355,5.16,71.12,,254.0,8.26,4.9,defense,defensive_lineman,DT
+3070,2012,23.0,Connecticut,1.7526,81.6466266,4.36,110.49,19.0,320.04,6.82,4.05,offense,backs_receivers,WR
+3071,2016,21.0,Texas A&M,1.9812,146.9639279,5.27,82.55,24.0,276.86,,4.75,offense,offensive_lineman,OT
+3072,2016,22.0,USC,1.8034,84.36818082,4.39,88.9,12.0,314.96,,4.18,defense,defensive_back,CB
+3073,2012,24.0,Penn St.,1.9304,147.4175203,5.52,69.85,31.0,,7.96,5.0,offense,offensive_lineman,OG
+3074,2010,22.0,Florida St.,1.8542,108.8621688,4.55,101.6,24.0,340.36,7.06,4.11,defense,line_backer,OLB
+3075,2013,23.0,Kansas St.,1.8542,103.8726527,4.55,90.17,20.0,294.64,6.89,4.39,offense,backs_receivers,WR
+3076,2017,22.0,Kutztown Pennsylvania,1.905,140.1600423,5.36,68.58,21.0,259.08,8.13,4.73,offense,offensive_lineman,OG
+3077,2010,21.0,Oregon St.,1.905,106.1406146,4.7,86.36,16.0,304.8,6.96,4.21,defense,line_backer,OLB
+3078,2014,23.0,Notre Dame,1.9304,139.70645,5.22,71.12,29.0,269.24,7.65,4.59,offense,offensive_lineman,OG
+3079,2010,23.0,Mississippi,1.9558,148.7782974,5.15,69.85,,256.54,7.93,4.69,offense,offensive_lineman,OT
+3080,2009,23.0,Oregon St.,1.7526,85.72895793,4.45,76.2,13.0,279.4,7.03,4.28,offense,backs_receivers,WR
+3081,2010,21.0,Fordham,1.9558,110.2229459,4.85,85.09,,274.32,7.17,4.33,offense,backs_receivers,QB
+3082,2012,20.0,Miami (FL),1.8034,96.16158244,4.34,83.82,,,,,offense,backs_receivers,RB
+3083,2018,21.0,Miami (FL),1.9304,129.7274178,,,,,,,defense,defensive_lineman,DT
+3084,2012,22.0,Tennessee Tech,1.8034,92.98643585,4.51,,15.0,,,,offense,backs_receivers,WR
+3085,2013,21.0,Utah St.,1.7272,88.45051215,4.48,88.9,17.0,299.72,7.15,4.15,offense,backs_receivers,RB
+3086,2009,22.0,Nebraska,1.8288,110.6765383,4.67,,25.0,,,,defense,line_backer,OLB
+3087,2019,21.0,Iowa,1.9304,112.9445001,4.5,100.33,20.0,322.58,6.81,4.22,offense,backs_receivers,TE
+3088,2015,21.0,LSU,1.7272,96.61517481,4.62,93.98,22.0,292.1,7.52,4.37,offense,backs_receivers,RB
+3089,2010,22.0,USC,1.905,123.830717,4.65,,32.0,,,,defense,defensive_lineman,DE
+3090,2011,,Georgia Tech,1.8288,92.53284348,4.57,83.82,14.0,289.56,6.92,4.21,defense,defensive_back,FS
+3091,2012,21.0,Mississippi St.,1.778,99.33672903,4.59,83.82,23.0,292.1,7.03,4.19,offense,backs_receivers,RB
+3092,2011,22.0,Virginia,1.9304,110.6765383,5.0,,11.0,,,,special_teams,other_special,LS
+3093,2016,22.0,Stanford,1.9304,141.5208194,5.32,73.66,30.0,251.46,7.62,4.64,offense,offensive_lineman,OG
+3094,2018,,Miami (FL),1.778,83.00740371,4.94,,,281.94,,,special_teams,kicking_specialist,K
+3095,2013,,Stanford,1.905,110.6765383,4.91,81.28,18.0,287.02,7.17,4.31,defense,line_backer,OLB
+3096,2010,21.0,Virginia Tech,1.905,104.7798375,4.62,81.28,22.0,294.64,7.36,4.41,defense,defensive_back,FS
+3097,2013,21.0,Tennessee Tech,1.8796,98.42954429,4.5,100.33,10.0,335.28,6.71,4.06,offense,backs_receivers,WR
+3098,2018,21.0,North Carolina St.,1.8034,102.0582833,4.54,87.63,18.0,307.34,6.93,4.28,offense,backs_receivers,TE
+3099,2011,20.0,Alabama,1.905,144.695966,4.93,68.58,24.0,,7.83,4.62,defense,defensive_lineman,DT
+3100,2014,22.0,Florida,1.905,137.8920805,5.15,68.58,27.0,287.02,7.97,4.86,offense,offensive_lineman,C
+3101,2013,,Nevada,1.778,96.61517481,4.68,78.74,15.0,297.18,6.97,4.44,offense,backs_receivers,RB
+3102,2016,20.0,Ohio St.,1.778,90.718474,4.6,95.25,16.0,317.5,6.8,4.13,offense,backs_receivers,WR
+3103,2019,22.0,North Carolina St.,1.8796,100.2439138,4.6,82.55,18.0,297.18,7.15,4.32,offense,backs_receivers,WR
+3104,2016,23.0,Houston,1.8288,85.72895793,4.37,,10.0,294.64,,,defense,defensive_back,CB
+3105,2015,22.0,Oklahoma,1.9558,149.2318897,5.17,76.2,28.0,266.7,7.88,4.68,defense,defensive_lineman,DT
+3106,2012,22.0,LSU,1.8034,94.80080533,4.52,85.09,,299.72,7.32,4.37,defense,defensive_back,SS
+3107,2014,21.0,Nebraska,1.8796,102.0582833,4.41,,19.0,,,,offense,backs_receivers,WR
+3108,2014,22.0,Alabama,1.9812,116.5732391,4.69,97.79,,297.18,,,defense,line_backer,OLB
+3109,2010,24.0,West Virginia,1.9558,139.70645,5.11,77.47,19.0,269.24,7.68,4.68,offense,offensive_lineman,OT
+3110,2012,22.0,Nebraska,1.8542,105.6870222,4.57,92.71,19.0,302.26,7.28,4.22,defense,line_backer,OLB
+3111,2009,23.0,Wake Forest,1.8542,100.2439138,4.42,93.98,21.0,317.5,7.03,4.12,defense,defensive_back,SS
+3112,2019,21.0,Texas A&M,1.8288,90.26488163,,91.44,18.0,322.58,,,defense,defensive_back,S
+3113,2010,23.0,Florida St.,1.8034,90.26488163,4.59,88.9,16.0,297.18,,4.16,offense,backs_receivers,WR
+3114,2018,23.0,Utah,1.9558,140.6136347,5.4,71.12,,276.86,7.7,4.9,offense,offensive_lineman,OG
+3115,2011,23.0,LSU,1.9558,147.4175203,5.31,73.66,29.0,261.62,8.27,4.75,offense,offensive_lineman,OT
+3116,2015,21.0,Wisconsin,1.8542,97.52235955,4.52,88.9,19.0,320.04,7.04,4.07,offense,backs_receivers,RB
+3117,2014,23.0,Utah,1.8542,135.1705263,5.1,77.47,31.0,281.94,7.67,4.53,defense,defensive_lineman,DT
+3118,2013,21.0,Arkansas,1.8034,102.965468,4.37,85.09,31.0,307.34,6.96,4.38,offense,backs_receivers,RB
+3119,2014,,Florida,1.8034,86.1825503,4.61,90.17,6.0,304.8,,,defense,defensive_back,CB
+3120,2009,22.0,Wisconsin,1.905,110.2229459,4.61,,28.0,,,,offense,backs_receivers,TE
+3121,2012,22.0,Alabama,1.8796,84.36818082,4.5,88.9,,304.8,,,defense,defensive_back,CB
+3122,2011,22.0,Virginia,1.8542,89.81128926,4.4,,19.0,,,,defense,defensive_back,CB
+3123,2013,22.0,Alabama,1.8796,112.4909078,4.73,,,,,,defense,line_backer,ILB
+3124,2012,22.0,Clemson,1.9558,149.2318897,5.48,68.58,19.0,231.14,8.13,4.82,offense,offensive_lineman,OG
+3125,2011,21.0,Missouri,1.9304,106.1406146,4.61,85.09,,304.8,6.84,4.26,offense,backs_receivers,QB
+3126,2018,,Pittsburgh,1.9558,98.42954429,,,,,,,special_teams,kicking_specialist,P
+3127,2009,26.0,Texas,1.7526,88.90410452,4.5,,,,7.28,4.47,offense,backs_receivers,WR
+3128,2019,22.0,Alabama,1.8542,88.45051215,,,,,,,defense,defensive_back,S
+3129,2018,23.0,LSU,1.8796,100.6975061,4.76,77.47,,289.56,7.09,4.37,offense,backs_receivers,QB
+3130,2012,28.0,Oklahoma St.,1.905,100.2439138,4.89,,,,,,offense,backs_receivers,QB
+3131,2011,23.0,North Carolina,1.8542,109.3157612,4.57,,25.0,,,,defense,line_backer,OLB
+3132,2009,22.0,San Jose St.,1.8288,83.91458845,4.63,91.44,24.0,312.42,6.81,4.24,defense,defensive_back,CB
+3133,2010,22.0,Syracuse,1.8542,100.2439138,4.53,85.09,8.0,294.64,6.9,4.31,offense,backs_receivers,WR
+3134,2016,23.0,Virginia Tech,1.905,106.594207,4.74,104.14,14.0,294.64,7.04,4.38,defense,defensive_lineman,DE
+3135,2010,21.0,Arizona St.,1.778,85.27536556,4.4,83.82,11.0,299.72,7.0,4.19,offense,backs_receivers,WR
+3136,2018,23.0,Wagner,1.9812,136.9848957,5.38,66.04,19.0,269.24,7.41,4.71,offense,offensive_lineman,OT
+3137,2010,22.0,Fresno St.,1.905,92.53284348,4.6,91.44,14.0,292.1,7.22,4.39,offense,backs_receivers,WR
+3138,2013,22.0,Missouri,1.8542,106.1406146,4.47,86.36,27.0,332.74,6.71,4.18,defense,line_backer,OLB
+3139,2016,22.0,Cincinnati,1.9304,93.89362059,4.55,88.9,12.0,312.42,7.08,4.63,offense,backs_receivers,WR
+3140,2010,23.0,Stanford,1.905,127.459456,4.86,,,,,,defense,defensive_lineman,DE
+3141,2018,23.0,Ohio St.,1.9304,138.3456729,,,,,,,offense,offensive_lineman,C
+3142,2016,23.0,Boston Col.,1.8034,110.2229459,4.86,81.28,16.0,284.48,7.33,4.54,defense,line_backer,ILB
+3143,2019,,Appalachian St.,1.778,96.16158244,,,27.0,,,,offense,backs_receivers,RB
+3144,2014,22.0,North Carolina St.,1.8796,90.718474,4.41,97.79,12.0,314.96,6.82,4.24,defense,defensive_back,CB
+3145,2017,,Baylor,1.8034,82.55381134,4.41,93.98,13.0,302.26,,,offense,backs_receivers,WR
+3146,2015,23.0,Boston Col.,1.8796,138.7992652,5.5,68.58,29.0,243.84,7.66,4.58,offense,offensive_lineman,C
+3147,2009,22.0,Oklahoma,1.9558,149.2318897,5.32,,,,,,offense,offensive_lineman,OG
+3148,2010,21.0,Indiana,1.9558,143.3351889,5.21,74.93,27.0,287.02,7.42,4.67,offense,offensive_lineman,OT
+3149,2015,22.0,Fresno St.,1.8796,143.3351889,5.18,83.82,32.0,266.7,7.53,4.46,defense,defensive_lineman,DT
+3150,2011,22.0,Nevada,1.905,112.9445001,4.54,107.95,23.0,330.2,6.9,4.4,offense,backs_receivers,TE
+3151,2014,,Utah St.,1.9304,141.9744118,5.17,59.69,36.0,259.08,8.22,4.7,offense,offensive_lineman,C
+3152,2016,21.0,Florida St.,1.8542,94.80080533,4.41,105.41,14.0,342.9,6.94,4.18,defense,defensive_back,CB
+3153,2012,21.0,Wisconsin,1.9304,142.4280042,5.32,73.66,32.0,256.54,7.77,4.61,offense,offensive_lineman,OG
+3154,2018,23.0,Tulane,1.9812,118.8412009,4.6,97.79,18.0,325.12,7.53,4.48,defense,defensive_lineman,DE
+3155,2010,23.0,LSU,1.8034,105.6870222,4.52,,,,,,offense,backs_receivers,RB
+3156,2017,21.0,Ohio St.,1.8796,108.8621688,4.61,83.82,23.0,307.34,7.15,4.39,defense,line_backer,ILB
+3157,2010,22.0,Central Michigan,1.905,104.3262451,4.6,74.93,,279.4,6.93,4.22,offense,backs_receivers,QB
+3158,2011,22.0,Louisville,1.905,110.6765383,5.0,78.74,18.0,266.7,7.19,4.51,offense,backs_receivers,TE
+3159,2015,20.0,Georgia,1.8542,100.6975061,4.52,,17.0,,,,offense,backs_receivers,RB
+3160,2016,22.0,Syracuse,1.9304,100.2439138,5.04,,,,,,special_teams,kicking_specialist,P
+3161,2017,22.0,South Alabama,1.905,108.4085764,4.62,95.25,22.0,320.04,6.99,4.33,offense,backs_receivers,TE
+3162,2009,21.0,USC,1.8034,84.82177319,4.66,,18.0,,,,defense,defensive_back,CB
+3163,2011,22.0,Texas,1.8796,118.8412009,4.67,85.09,23.0,284.48,6.69,4.32,defense,line_backer,OLB
+3164,2013,22.0,LSU,1.8288,111.583723,4.81,83.82,25.0,302.26,,,defense,line_backer,ILB
+3165,2013,20.0,LSU,1.7526,84.36818082,4.5,86.36,4.0,297.18,6.87,4.14,defense,defensive_back,CB
+3166,2010,21.0,USC,1.8542,89.35769689,4.52,96.52,19.0,299.72,6.79,4.24,offense,backs_receivers,WR
+3167,2016,21.0,Oregon,2.0066,131.9953797,5.05,81.28,,294.64,7.51,4.47,defense,defensive_lineman,DE
+3168,2015,23.0,East Carolina,1.778,87.08973504,4.56,92.71,11.0,289.56,6.63,4.21,offense,backs_receivers,WR
+3169,2018,23.0,Clemson,1.8542,101.1510985,4.61,81.28,21.0,302.26,6.64,4.07,defense,line_backer,OLB
+3170,2017,23.0,Syracuse,1.8542,94.34721296,4.49,78.74,14.0,320.04,6.95,4.32,offense,backs_receivers,WR
+3171,2011,23.0,Miami (FL),1.8542,94.34721296,4.78,,8.0,,,,special_teams,kicking_specialist,P
+3172,2009,22.0,Tulane,1.9558,140.1600423,5.3,76.2,21.0,254.0,7.65,4.84,offense,offensive_lineman,OT
+3173,2015,,Harding,1.8288,95.70799007,4.4,86.36,17.0,299.72,7.51,4.5,offense,backs_receivers,WR
+3174,2014,23.0,Utah St.,1.8542,99.7903214,4.5,96.52,,312.42,7.05,4.51,defense,defensive_back,SS
+3175,2009,,San Jose St.,1.8796,89.35769689,4.59,92.71,,,,4.42,offense,backs_receivers,WR
+3176,2011,22.0,Texas A&M,1.9558,113.8516849,4.75,73.66,,302.26,7.28,4.31,offense,backs_receivers,QB
+3177,2009,23.0,Clemson,1.8288,94.34721296,4.33,95.25,19.0,322.58,7.27,4.38,defense,defensive_back,FS
+3178,2016,22.0,Boston Col.,1.8796,91.62565874,4.61,101.6,16.0,320.04,6.58,3.85,defense,defensive_back,FS
+3179,2012,22.0,Boise St.,1.905,117.9340162,4.62,80.01,19.0,299.72,7.07,4.33,defense,line_backer,OLB
+3180,2015,22.0,East. Washington,1.8034,88.45051215,4.63,83.82,19.0,284.48,7.01,4.26,defense,defensive_back,FS
+3181,2018,,Oklahoma,1.8288,84.36818082,4.64,96.52,4.0,314.96,6.28,3.94,defense,defensive_back,CB
+3182,2018,,San Jose St.,1.8288,90.718474,4.49,96.52,13.0,312.42,6.78,4.07,defense,defensive_back,CB
+3183,2010,22.0,Penn St.,1.9558,137.8920805,5.03,73.66,26.0,269.24,7.22,4.59,defense,defensive_lineman,DT
+3184,2016,23.0,East Carolina,1.9812,116.5732391,4.94,74.93,19.0,281.94,7.19,4.53,offense,backs_receivers,TE
+3185,2010,22.0,Vanderbilt,1.9812,139.2528576,5.42,73.66,29.0,266.7,7.67,4.8,offense,offensive_lineman,OT
+3186,2018,20.0,Auburn,1.8034,96.61517481,,101.6,11.0,320.04,7.07,4.29,offense,backs_receivers,RB
+3187,2013,22.0,Florida,1.9812,145.6031508,5.23,,,,,,offense,offensive_lineman,OT
+3188,2013,23.0,LSU,1.9558,150.1390745,5.08,,25.0,,,,offense,offensive_lineman,OT
+3189,2014,21.0,Central Florida,1.9558,105.2334298,4.93,82.55,,292.1,7.08,4.21,offense,backs_receivers,QB
+3190,2019,,Florida St.,1.778,86.63614267,4.63,86.36,8.0,287.02,7.2,4.4,offense,backs_receivers,WR
+3191,2013,22.0,Valdosta St.,1.9304,143.7887813,5.13,57.15,23.0,266.7,7.72,4.65,offense,offensive_lineman,OG
+3192,2017,22.0,Connecticut,1.9304,101.6046909,4.4,111.76,17.0,358.14,,,defense,defensive_back,SS
+3193,2012,25.0,BYU,1.9304,136.9848957,5.27,,25.0,,,,offense,offensive_lineman,OT
+3194,2010,23.0,Cincinnati,1.9812,101.1510985,4.9,72.39,,274.32,7.06,4.53,offense,backs_receivers,QB
+3195,2010,23.0,TCU,1.905,107.0477993,5.08,,,,,,special_teams,other_special,LS
+3196,2009,21.0,California,1.905,110.6765383,4.61,82.55,24.0,292.1,6.99,4.36,offense,backs_receivers,TE
+3197,2011,22.0,Rice,1.8796,112.0373154,4.84,87.63,26.0,302.26,7.06,4.31,defense,defensive_lineman,DE
+3198,2018,22.0,San Diego St.,1.8034,99.7903214,4.46,82.55,13.0,304.8,,,offense,backs_receivers,RB
+3199,2013,21.0,Miami (FL),1.778,101.1510985,4.53,88.9,28.0,292.1,,4.62,offense,backs_receivers,RB
+3200,2012,22.0,North Carolina St.,1.9558,135.1705263,4.97,91.44,21.0,287.02,7.4,4.41,defense,defensive_lineman,DT
+3201,2013,22.0,USC,1.8796,102.965468,4.91,,,,,,offense,backs_receivers,QB
+3202,2019,22.0,Washington St.,1.7526,89.35769689,4.58,92.71,,299.72,7.01,4.25,offense,backs_receivers,RB
+3203,2010,23.0,Miami (FL),1.9812,117.9340162,4.53,97.79,,304.8,6.9,4.45,offense,backs_receivers,TE
+3204,2012,,Pittsburgh,1.8796,115.212462,4.85,83.82,23.0,297.18,7.36,4.28,defense,line_backer,OLB
+3205,2012,22.0,San Jose St.,1.8288,96.61517481,4.67,88.9,20.0,309.88,6.78,4.22,defense,defensive_back,SS
+3206,2009,22.0,Boston Col.,1.8542,152.8606287,5.12,81.28,33.0,261.62,7.9,4.69,defense,defensive_lineman,DT
+3207,2009,23.0,Northern Illinois,1.8796,115.6660544,4.74,91.44,24.0,271.78,7.26,4.38,defense,line_backer,OLB
+3208,2011,23.0,UCLA,1.8034,89.35769689,4.78,,,,,,special_teams,kicking_specialist,K
+3209,2018,22.0,Richmond,1.905,100.6975061,4.81,78.74,,287.02,6.95,4.07,offense,backs_receivers,QB
+3210,2015,21.0,Alabama,1.8288,103.4190604,4.53,88.9,,304.8,7.38,4.33,defense,defensive_back,SS
+3211,2015,23.0,UCLA,1.8288,105.2334298,4.61,96.52,19.0,314.96,,,defense,line_backer,ILB
+3212,2016,22.0,South Carolina St.,1.9558,110.6765383,4.71,77.47,18.0,292.1,6.88,4.31,offense,backs_receivers,TE
+3213,2018,21.0,Wyoming,1.9558,107.5013917,4.75,85.09,,302.26,6.9,4.4,offense,backs_receivers,QB
+3214,2014,23.0,Ball St.,1.905,112.0373154,4.73,86.36,21.0,297.18,7.31,4.63,defense,line_backer,OLB
+3215,2009,21.0,Arkansas St.,1.8542,117.9340162,4.73,82.55,21.0,287.02,7.28,4.43,offense,backs_receivers,FB
+3216,2017,20.0,Ohio St.,1.8288,87.54332741,4.36,97.79,,335.28,,,defense,defensive_back,CB
+3217,2010,20.0,Texas,1.778,94.34721296,4.43,,21.0,287.02,,,defense,defensive_back,CB
+3218,2014,22.0,TCU,1.7526,85.72895793,4.38,99.06,,325.12,6.69,4.0,defense,defensive_back,CB
+3219,2010,22.0,Hillsdale,2.032,141.5208194,5.06,85.09,32.0,276.86,7.4,4.51,offense,offensive_lineman,OT
+3220,2016,24.0,Miami (FL),1.8542,90.26488163,4.54,82.55,17.0,294.64,,,offense,backs_receivers,WR
+3221,2011,23.0,Florida St.,1.905,120.6555704,4.86,82.55,14.0,297.18,7.25,4.51,defense,defensive_lineman,DE
+3222,2015,23.0,Arizona St.,1.905,139.2528576,4.91,,27.0,,,,defense,defensive_lineman,DT
+3223,2011,22.0,Ohio St.,1.8288,86.63614267,4.38,87.63,,320.04,,,defense,defensive_back,CB
+3224,2009,23.0,TCU,1.8542,108.4085764,4.6,86.36,20.0,304.8,,4.32,defense,line_backer,ILB
+3225,2016,21.0,Central Michigan,1.8288,98.42954429,4.53,,18.0,,,,defense,defensive_back,FS
+3226,2019,,Kentucky,1.8796,89.35769689,,97.79,10.0,322.58,7.06,4.31,defense,defensive_back,CB
+3227,2018,21.0,Virginia Tech,1.8288,81.6466266,4.48,85.09,16.0,287.02,,4.45,defense,defensive_back,CB
+3228,2014,23.0,Michigan,1.9812,136.5313034,5.01,60.96,,236.22,7.62,4.57,offense,offensive_lineman,OT
+3229,2010,21.0,Maryland,1.9812,142.4280042,4.75,81.28,34.0,256.54,7.58,4.69,offense,offensive_lineman,OT
+3230,2013,21.0,Florida International,1.905,117.9340162,4.92,83.82,25.0,284.48,,,defense,defensive_lineman,DE
+3231,2011,22.0,Clemson,1.9304,140.6136347,5.03,67.31,17.0,248.92,7.42,4.83,defense,defensive_lineman,DT
+3232,2019,22.0,Michigan,1.7526,93.44002822,4.49,86.36,21.0,312.42,,,offense,backs_receivers,RB
+3233,2011,22.0,Pittsburgh,1.8288,116.5732391,5.06,77.47,24.0,281.94,,,offense,backs_receivers,FB
+3234,2011,22.0,Washington,1.8796,104.7798375,4.51,88.9,,304.8,6.77,4.12,offense,backs_receivers,QB
+3235,2010,22.0,Vanderbilt,1.8796,92.07925111,4.42,93.98,10.0,320.04,,,defense,defensive_back,FS
+3236,2012,,Wisconsin,1.7272,86.1825503,4.57,81.28,20.0,276.86,6.8,4.2,defense,defensive_back,CB
+3237,2016,22.0,West Virginia,1.8796,110.2229459,4.73,81.28,19.0,304.8,7.16,4.22,defense,line_backer,ILB
+3238,2019,23.0,Penn St.,1.8796,92.98643585,4.47,92.71,17.0,304.8,6.82,4.16,defense,defensive_back,CB
+3239,2009,23.0,East Carolina,1.9558,144.2423737,5.04,76.2,30.0,276.86,7.45,4.71,defense,defensive_lineman,DT
+3240,2018,20.0,Texas,1.8796,92.98643585,4.58,91.44,15.0,307.34,,,defense,defensive_back,S
+3241,2017,22.0,Texas-El Paso,1.7526,94.34721296,4.56,95.25,16.0,322.58,6.82,4.2,offense,backs_receivers,RB
+3242,2014,21.0,Oregon,1.8034,87.08973504,4.63,86.36,,297.18,6.57,4.0,defense,defensive_back,CB
+3243,2011,22.0,North Carolina,1.8034,101.1510985,4.55,83.82,27.0,304.8,6.87,4.09,defense,defensive_back,SS
+3244,2009,,Clemson,1.905,102.0582833,4.86,76.2,19.0,266.7,7.43,4.49,offense,backs_receivers,QB
+3245,2010,23.0,Oklahoma St.,1.8034,88.45051215,4.58,82.55,12.0,287.02,,,defense,defensive_back,CB
+3246,2013,23.0,Georgia,1.8796,111.1301307,4.74,,,,,,defense,line_backer,OLB
+3247,2019,,Northern Illinois,1.9812,148.324705,,71.12,27.0,274.32,7.77,4.69,offense,offensive_lineman,OT
+3248,2017,22.0,Arkansas,2.0828,140.1600423,5.42,66.04,,246.38,7.61,5.01,offense,offensive_lineman,OT
+3249,2017,23.0,Alabama,1.8034,92.53284348,4.49,86.36,,314.96,,,offense,backs_receivers,WR
+3250,2016,23.0,Texas A&M,1.8034,89.35769689,4.37,77.47,18.0,299.72,6.85,4.19,defense,defensive_back,CB
+3251,2012,21.0,Mississippi St.,1.9304,135.1705263,4.77,66.04,30.0,261.62,7.07,4.53,defense,defensive_lineman,DT
+3252,2018,,Louisiana-Lafayette,1.8796,90.718474,4.51,83.82,14.0,302.26,7.0,4.28,defense,defensive_back,S
+3253,2016,24.0,Kentucky,1.905,112.9445001,4.91,77.47,11.0,299.72,,,defense,line_backer,ILB
+3254,2016,23.0,North Carolina St.,1.9558,137.8920805,4.95,72.39,28.0,279.4,7.47,4.54,offense,offensive_lineman,OT
+3255,2014,22.0,LSU,1.8796,101.1510985,4.63,81.28,13.0,307.34,7.15,4.5,offense,backs_receivers,RB
+3256,2014,20.0,Notre Dame,1.9558,137.8920805,4.92,,31.0,,,,defense,defensive_lineman,DT
+3257,2011,22.0,USC,1.8034,109.7693535,4.53,73.66,28.0,287.02,6.97,4.39,offense,backs_receivers,RB
+3258,2015,,Kentucky,1.778,89.81128926,4.63,77.47,19.0,294.64,7.19,4.4,offense,backs_receivers,RB
+3259,2014,23.0,Baylor,1.9812,116.1196467,4.93,82.55,18.0,284.48,7.14,4.47,offense,backs_receivers,TE
+3260,2015,,UNLV,2.0066,136.5313034,5.6,63.5,,261.62,7.91,4.75,offense,offensive_lineman,OG
+3261,2015,,Florida,1.8796,91.62565874,4.93,,,,,,special_teams,kicking_specialist,P
+3262,2009,22.0,Penn St.,1.8542,137.8920805,5.19,78.74,33.0,254.0,7.46,4.4,offense,offensive_lineman,C
+3263,2016,23.0,Stanford,1.905,98.88313666,4.78,82.55,,287.02,6.9,4.31,offense,backs_receivers,QB
+3264,2009,21.0,Oregon St.,1.8796,112.4909078,4.72,83.82,24.0,287.02,7.21,4.4,defense,line_backer,OLB
+3265,2009,22.0,Central Arkansas,1.8796,112.0373154,4.55,88.9,22.0,276.86,,,offense,backs_receivers,FB
+3266,2016,22.0,Louisiana Tech,1.778,97.52235955,4.56,95.25,18.0,307.34,6.97,4.28,offense,backs_receivers,RB
+3267,2011,22.0,Central Florida,2.0066,148.324705,5.32,74.93,28.0,281.94,7.73,4.65,offense,offensive_lineman,OT
+3268,2013,22.0,Wake Forest,1.8542,111.583723,4.88,88.9,36.0,302.26,7.27,4.42,offense,backs_receivers,FB
+3269,2016,22.0,Florida,1.905,129.2738255,4.93,81.28,23.0,294.64,7.31,4.56,defense,defensive_lineman,DE
+3270,2013,22.0,Wisconsin,1.778,97.06876718,4.66,81.28,15.0,299.72,6.88,4.4,offense,backs_receivers,RB
+3271,2013,22.0,Syracuse,1.9304,139.2528576,5.12,72.39,,261.62,7.45,4.63,offense,offensive_lineman,OT
+3272,2017,23.0,Alabama,1.905,140.6136347,5.19,68.58,,279.4,7.68,4.59,defense,defensive_lineman,DT
+3273,2013,21.0,South Carolina,1.778,94.34721296,4.67,93.98,17.0,314.96,6.7,4.11,defense,defensive_back,FS
+3274,2019,22.0,Notre Dame,1.9304,99.7903214,4.42,110.49,12.0,355.6,6.77,4.07,offense,backs_receivers,WR
+3275,2012,21.0,Arkansas,1.905,99.33672903,4.52,92.71,19.0,317.5,,,offense,backs_receivers,WR
+3276,2013,21.0,Kentucky,1.905,150.5926668,5.58,57.15,28.0,243.84,7.78,5.1,offense,offensive_lineman,OG
+3277,2011,21.0,Oregon St.,1.6764,88.90410452,4.59,83.82,,287.02,7.31,4.26,offense,backs_receivers,RB
+3278,2009,21.0,Utah,1.905,97.06876718,4.47,86.36,10.0,302.26,6.92,4.15,defense,defensive_back,CB
+3279,2014,21.0,Oklahoma St.,1.778,80.73944186,4.69,88.9,11.0,297.18,7.1,4.33,offense,backs_receivers,WR
+3280,2015,,Fresno St.,1.8542,86.63614267,4.64,81.28,13.0,274.32,7.15,4.36,offense,backs_receivers,WR
+3281,2016,23.0,Wisconsin,2.0066,143.3351889,5.54,69.85,19.0,251.46,8.38,4.97,offense,offensive_lineman,OT
+3282,2018,21.0,Michigan,1.9304,139.2528576,5.23,59.69,23.0,264.16,7.77,4.78,offense,offensive_lineman,C
+3283,2015,22.0,Mississippi St.,1.9304,111.583723,4.66,102.87,16.0,307.34,7.21,4.27,defense,line_backer,ILB
+3284,2013,21.0,TCU,1.8288,100.2439138,4.55,90.17,17.0,299.72,,,offense,backs_receivers,RB
+3285,2014,21.0,North Carolina,1.8288,92.53284348,4.58,88.9,18.0,294.64,7.04,4.31,defense,defensive_back,SS
+3286,2009,23.0,South Carolina,1.8796,114.3052772,4.67,90.17,26.0,289.56,7.03,4.32,defense,line_backer,ILB
+3287,2010,21.0,Florida,1.905,120.6555704,4.89,,,,,,defense,defensive_lineman,DE
+3288,2017,21.0,Central Florida,1.8288,87.99691978,4.38,97.79,17.0,335.28,6.87,4.14,defense,defensive_back,CB
+3289,2012,,USC,1.8034,99.33672903,4.7,77.47,19.0,279.4,,,offense,backs_receivers,RB
+3290,2014,23.0,UCLA,1.9304,139.2528576,5.04,63.5,25.0,259.08,7.6,4.44,offense,offensive_lineman,OG
+3291,2014,23.0,Buffalo,1.905,113.8516849,4.65,101.6,23.0,325.12,7.08,4.18,defense,line_backer,OLB
+3292,2009,21.0,Virginia,1.9558,140.1600423,5.18,72.39,23.0,279.4,7.86,4.78,offense,offensive_lineman,OT
+3293,2018,,Arkansas,1.8542,83.91458845,4.63,82.55,6.0,297.18,7.01,4.15,defense,defensive_back,CB
+3294,2016,22.0,Oregon,1.7526,91.17206637,4.42,,17.0,,,,offense,backs_receivers,WR
+3295,2016,24.0,BYU,1.9812,129.2738255,4.87,76.2,25.0,281.94,7.03,4.25,defense,defensive_lineman,DE
+3296,2018,,Missouri,1.905,93.89362059,4.6,96.52,21.0,304.8,6.56,4.04,offense,backs_receivers,WR
+3297,2013,22.0,Texas,1.8288,97.06876718,4.63,96.52,15.0,307.34,6.78,4.06,defense,defensive_back,FS
+3298,2009,21.0,Auburn,1.7526,85.27536556,4.43,92.71,15.0,309.88,7.09,4.08,defense,defensive_back,CB
+3299,2013,21.0,Colorado,1.9304,135.6241186,5.18,64.77,28.0,256.54,7.7,4.74,offense,offensive_lineman,OT
+3300,2017,22.0,Clemson,1.8288,97.52235955,4.6,74.93,21.0,304.8,7.17,4.28,offense,backs_receivers,RB
+3301,2015,22.0,Louisville,1.905,94.80080533,4.45,92.71,17.0,317.5,,,offense,backs_receivers,WR
+3302,2012,26.0,Baylor,1.905,141.0672271,5.17,74.93,22.0,266.7,7.86,4.65,offense,offensive_lineman,C
+3303,2014,21.0,Georgia Southern,1.7526,94.80080533,4.41,102.87,32.0,335.28,6.83,4.12,offense,backs_receivers,RB
+3304,2014,23.0,Stanford,1.8796,111.1301307,5.09,,,,,,defense,line_backer,ILB
+3305,2013,21.0,UNLV,1.8034,105.6870222,4.84,90.17,25.0,297.18,6.91,4.3,defense,line_backer,OLB
+3306,2011,,Kentucky,1.7272,85.27536556,4.37,95.25,16.0,299.72,6.98,4.15,offense,backs_receivers,RB
+3307,2017,23.0,Louisville,1.9304,98.42954429,,80.01,12.0,307.34,,,defense,defensive_back,SS
+3308,2015,22.0,Auburn,1.9304,144.2423737,5.02,78.74,20.0,256.54,7.5,4.57,defense,defensive_lineman,DT
+3309,2010,,Tennessee,1.7526,83.91458845,4.73,96.52,,299.72,,4.1,defense,defensive_back,FS
+3310,2012,22.0,Southern Miss,1.9558,146.5103355,5.29,68.58,22.0,264.16,7.74,4.8,offense,offensive_lineman,OT
+3311,2009,23.0,Wisconsin,1.9558,148.7782974,5.25,60.96,29.0,238.76,7.87,4.89,offense,offensive_lineman,OG
+3312,2014,23.0,Auburn,1.778,91.62565874,4.54,,15.0,,,,defense,defensive_back,CB
+3313,2015,,Lafayette,1.8288,92.53284348,4.62,83.82,15.0,307.34,7.08,4.11,offense,backs_receivers,WR
+3314,2010,,Alabama,1.8542,101.1510985,4.64,86.36,13.0,299.72,6.88,4.17,defense,defensive_back,SS
+3315,2017,21.0,Notre Dame,1.9304,127.0058636,4.89,80.01,25.0,289.56,,,defense,defensive_lineman,DE
+3316,2010,24.0,BYU,1.8542,94.80080533,4.84,81.28,,259.08,7.07,4.35,offense,backs_receivers,QB
+3317,2014,21.0,Colorado St.,1.7526,96.16158244,4.67,73.66,24.0,269.24,,,offense,backs_receivers,RB
+3318,2010,23.0,Texas,1.8542,97.97595192,4.79,,,289.56,,,offense,backs_receivers,QB
+3319,2017,20.0,Akron,1.8796,102.5118756,4.6,88.9,16.0,317.5,6.87,4.12,offense,backs_receivers,WR
+3320,2017,22.0,North Carolina,1.7526,88.90410452,4.37,85.09,17.0,307.34,,,offense,backs_receivers,RB
+3321,2014,23.0,Wisconsin,1.9558,143.3351889,5.19,67.31,26.0,274.32,7.49,4.47,offense,offensive_lineman,OG
+3322,2019,,Colorado,1.8796,96.16158244,4.63,85.09,17.0,307.34,7.07,4.37,defense,defensive_back,S
+3323,2016,22.0,North Dakota St.,1.9812,137.8920805,5.16,69.85,,281.94,7.47,4.47,offense,offensive_lineman,OT
+3324,2017,21.0,Oklahoma,1.8034,105.6870222,4.65,83.82,30.0,294.64,7.26,4.37,offense,backs_receivers,RB
+3325,2018,,Michigan,1.8796,132.448972,,,,,,,defense,defensive_lineman,DT
+3326,2019,22.0,Alabama,1.778,97.97595192,4.57,93.98,16.0,307.34,,,offense,backs_receivers,RB
+3327,2010,22.0,Miami (FL),1.8034,107.0477993,4.81,,24.0,,7.19,4.42,defense,line_backer,ILB
+3328,2017,22.0,San Diego St.,1.7272,79.83225712,4.48,85.09,5.0,297.18,,,offense,backs_receivers,RB
+3329,2009,21.0,California,1.8796,107.0477993,4.69,93.98,,297.18,7.31,,defense,line_backer,OLB
+3330,2017,23.0,Arkansas,1.905,95.2543977,,,,,,,special_teams,kicking_specialist,P
+3331,2012,21.0,California,1.8034,108.4085764,4.44,100.33,24.0,322.58,,4.19,defense,line_backer,ILB
+3332,2014,23.0,Wisconsin,1.8288,95.70799007,4.38,,,,,,defense,defensive_back,SS
+3333,2009,22.0,Michigan St.,1.7526,92.98643585,4.5,86.36,23.0,292.1,6.87,4.11,offense,backs_receivers,RB
+3334,2010,21.0,Mississippi,1.8288,89.81128926,4.73,80.01,16.0,294.64,6.88,4.33,defense,defensive_back,FS
+3335,2010,22.0,Virginia Tech,1.9558,142.4280042,5.18,68.58,29.0,243.84,,4.7,offense,offensive_lineman,OT
+3336,2010,,James Madison,1.8796,138.7992652,5.15,58.42,26.0,254.0,7.73,4.66,offense,offensive_lineman,OG
+3337,2013,22.0,Notre Dame,1.8542,109.3157612,4.82,83.82,,287.02,7.13,4.27,defense,line_backer,ILB
+3338,2015,22.0,Oklahoma,1.905,118.8412009,4.81,93.98,20.0,297.18,7.24,4.38,defense,line_backer,OLB
+3339,2013,23.0,Ohio,1.9304,145.1495584,5.25,71.12,36.0,241.3,7.99,5.09,offense,offensive_lineman,OG
+3340,2012,,North Carolina,1.7526,91.62565874,4.53,90.17,18.0,289.56,6.94,4.06,defense,defensive_back,CB
+3341,2014,23.0,Baylor,1.778,73.93555631,4.46,104.14,,335.28,6.63,4.18,offense,backs_receivers,WR
+3342,2013,21.0,Kent St.,1.9304,145.1495584,5.22,,9.0,,,,offense,offensive_lineman,OG
+3343,2016,21.0,Virginia,1.8542,87.54332741,4.49,96.52,16.0,314.96,7.03,4.09,defense,defensive_back,CB
+3344,2010,23.0,Clemson,1.9304,114.3052772,4.65,86.36,23.0,289.56,7.29,4.41,defense,line_backer,OLB
+3345,2012,22.0,Oregon,1.7272,87.99691978,4.35,88.9,15.0,312.42,6.88,4.12,offense,backs_receivers,RB
+3346,2013,22.0,Florida,1.8796,113.3980925,4.74,,,,,,defense,line_backer,OLB
+3347,2014,24.0,Utah,1.9304,112.9445001,4.79,83.82,24.0,289.56,7.18,4.27,offense,backs_receivers,TE
+3348,2009,22.0,Ball St.,1.9304,147.4175203,5.29,77.47,23.0,248.92,7.68,4.75,offense,offensive_lineman,OT
+3349,2009,,Stanford,1.8796,134.7169339,5.39,71.12,30.0,243.84,7.78,4.65,offense,offensive_lineman,C
+3350,2016,21.0,SE Louisiana,1.8288,82.55381134,4.65,90.17,6.0,299.72,7.44,4.43,defense,defensive_back,CB
+3351,2017,22.0,Arkansas,1.905,127.0058636,4.84,82.55,29.0,287.02,7.55,4.56,defense,defensive_lineman,DT
+3352,2015,21.0,Clemson,1.8542,137.8920805,5.06,78.74,30.0,284.48,7.37,4.56,defense,defensive_lineman,DT
+3353,2014,22.0,Missouri,1.7272,87.99691978,4.43,87.63,20.0,299.72,7.07,4.13,offense,backs_receivers,RB
+3354,2018,21.0,North Carolina St.,1.7272,89.81128926,4.38,90.17,,302.26,7.18,4.35,offense,backs_receivers,RB
+3355,2018,21.0,UCLA,1.9304,102.5118756,4.92,78.74,,281.94,7.09,4.28,offense,backs_receivers,QB
+3356,2017,23.0,TCU,1.9304,133.8097492,4.81,,34.0,,,,offense,offensive_lineman,OG
+3357,2016,23.0,Arizona St.,1.905,135.1705263,5.12,,34.0,248.92,7.69,4.71,offense,offensive_lineman,OG
+3358,2015,23.0,Rutgers,1.8034,109.7693535,4.65,83.82,25.0,292.1,7.2,4.34,offense,backs_receivers,FB
+3359,2010,,Alabama,1.8542,94.80080533,,,,,,,special_teams,kicking_specialist,K
+3360,2014,21.0,Kentucky,1.8542,111.583723,4.66,77.47,25.0,304.8,7.11,4.07,defense,line_backer,ILB
+3361,2012,25.0,Utah,1.9558,141.9744118,5.19,74.93,32.0,256.54,7.95,4.84,offense,offensive_lineman,OT
+3362,2016,21.0,South Carolina,1.8034,92.07925111,4.52,78.74,15.0,292.1,,,offense,backs_receivers,WR
+3363,2018,22.0,Ohio St.,1.9558,128.3666407,4.82,81.28,25.0,,,,defense,defensive_lineman,DE
+3364,2014,21.0,LSU,1.8796,139.70645,5.24,62.23,20.0,259.08,7.93,4.83,defense,defensive_lineman,DT
+3365,2010,21.0,Central Florida,1.905,142.4280042,5.12,73.66,34.0,248.92,7.61,4.73,defense,defensive_lineman,DT
+3366,2014,21.0,Auburn,1.9558,150.5926668,4.92,72.39,32.0,287.02,7.8,4.86,offense,offensive_lineman,OT
+3367,2015,,Oklahoma,1.9304,153.3142211,5.74,,26.0,,,,offense,offensive_lineman,OG
+3368,2015,22.0,USC,1.9304,113.3980925,4.83,,20.0,,,,offense,backs_receivers,TE
+3369,2009,,Marshall,1.8288,85.27536556,4.46,85.09,,,,,offense,backs_receivers,WR
+3370,2010,22.0,Colorado St.,2.0066,142.8815966,5.37,57.15,18.0,243.84,7.65,4.77,offense,offensive_lineman,OT
+3371,2019,,Rice,1.8796,96.61517481,4.73,69.85,,289.56,,,special_teams,kicking_specialist,P
+3372,2012,23.0,Arkansas St.,1.8796,106.594207,4.49,97.79,32.0,314.96,7.19,4.28,defense,line_backer,OLB
+3373,2013,23.0,Nebraska,1.8288,84.36818082,4.89,,,,,,special_teams,kicking_specialist,K
+3374,2016,23.0,California,1.8288,94.80080533,4.46,105.41,23.0,342.9,7.22,4.26,offense,backs_receivers,RB
+3375,2015,23.0,Washington St.,1.905,132.9025644,4.86,73.66,29.0,279.4,7.23,4.37,defense,defensive_lineman,DT
+3376,2017,21.0,Miami (OH),1.9558,143.3351889,,63.5,23.0,246.38,,,offense,offensive_lineman,OT
+3377,2019,21.0,Oklahoma,1.9558,138.3456729,5.29,69.85,28.0,256.54,7.89,4.7,offense,offensive_lineman,OT
+3378,2014,22.0,Louisiana Tech,1.8542,118.3876086,4.86,86.36,28.0,284.48,7.67,4.65,defense,defensive_lineman,DE
+3379,2010,21.0,Washington,1.8542,111.1301307,4.61,,35.0,,,,defense,line_backer,ILB
+3380,2013,22.0,Florida St.,1.905,120.6555704,4.83,78.74,25.0,281.94,7.3,4.4,defense,defensive_lineman,DE
+3381,2013,23.0,UCLA,1.905,136.9848957,5.03,67.31,,254.0,7.26,4.44,offense,offensive_lineman,OG
+3382,2015,22.0,Florida St.,1.905,114.3052772,4.93,77.47,21.0,279.4,7.4,4.5,offense,backs_receivers,TE
+3383,2012,22.0,Oregon,1.8034,79.37866475,4.61,91.44,14.0,299.72,6.79,4.19,defense,defensive_back,CB
+3384,2014,,BYU,1.9304,101.1510985,4.65,69.85,13.0,274.32,6.89,4.2,offense,backs_receivers,WR
+3385,2010,21.0,Illinois,1.9304,119.7483857,4.77,,25.0,,,,offense,backs_receivers,TE
+3386,2012,23.0,Penn St.,1.9304,94.80080533,4.46,85.09,10.0,292.1,,4.23,offense,backs_receivers,WR
+3387,2016,22.0,California,1.8542,85.27536556,4.42,97.79,11.0,314.96,6.6,4.22,offense,backs_receivers,WR
+3388,2019,22.0,Massachusetts,1.7526,85.27536556,4.31,92.71,15.0,307.34,6.95,4.15,offense,backs_receivers,WR
+3389,2012,22.0,Auburn,1.8542,114.3052772,4.82,,15.0,,,,special_teams,other_special,LS
+3390,2009,,Kentucky,1.8288,95.2543977,4.49,93.98,16.0,304.8,7.45,4.22,defense,defensive_back,FS
+3391,2009,22.0,Utah St.,1.905,110.2229459,4.58,,,,,,offense,backs_receivers,FB
+3392,2012,26.0,Oregon,1.9812,144.695966,5.32,,23.0,,,,offense,offensive_lineman,OG
+3393,2015,23.0,Ohio St.,1.8288,88.90410452,4.42,99.06,10.0,309.88,,4.15,offense,backs_receivers,WR
+3394,2016,20.0,Ohio St.,1.8288,102.0582833,4.47,82.55,,299.72,,,offense,backs_receivers,RB
+3395,2013,24.0,Purdue,1.905,135.6241186,5.08,,,,,,defense,defensive_lineman,DT
+3396,2011,20.0,Pittsburgh,1.7018,87.54332741,4.56,87.63,17.0,284.48,6.9,4.18,offense,backs_receivers,RB
+3397,2011,22.0,LSU,1.905,96.16158244,4.52,81.28,,309.88,6.48,4.03,offense,backs_receivers,WR
+3398,2012,22.0,Baylor,1.778,88.90410452,4.49,97.79,,307.34,6.93,4.18,offense,backs_receivers,WR
+3399,2018,21.0,Auburn,1.8542,92.07925111,4.53,86.36,16.0,314.96,,,defense,defensive_back,CB
+3400,2011,22.0,Citadel,1.8542,89.35769689,4.5,90.17,18.0,327.66,6.76,4.01,defense,defensive_back,CB
+3401,2018,22.0,Boise St.,1.8796,89.35769689,4.55,93.98,9.0,307.34,6.89,4.23,offense,backs_receivers,WR
+3402,2017,22.0,Northwestern,1.905,117.0268315,4.72,80.01,25.0,325.12,7.26,4.4,defense,defensive_lineman,DE
+3403,2017,23.0,Illinois,1.8288,105.2334298,4.78,83.82,18.0,294.64,,4.38,defense,line_backer,ILB
+3404,2017,22.0,Wisconsin,1.8034,96.61517481,4.65,88.9,14.0,304.8,6.99,4.34,offense,backs_receivers,RB
+3405,2016,22.0,Georgia Tech,1.8034,87.54332741,4.49,83.82,17.0,335.28,7.18,4.33,defense,defensive_back,CB
+3406,2009,23.0,Georgia,1.8542,107.0477993,4.63,88.9,,299.72,7.0,4.23,defense,line_backer,ILB
+3407,2018,,Bowling Green,2.0066,105.2334298,,,,,,,special_teams,kicking_specialist,P
+3408,2011,21.0,West Virginia,1.9304,98.42954429,4.53,88.9,12.0,314.96,7.03,4.06,defense,defensive_back,FS
+3409,2011,,Georgia,1.778,80.73944186,4.53,91.44,,304.8,6.91,4.09,defense,defensive_back,CB
+3410,2018,,Miami (FL),1.9304,114.7588696,,,21.0,,,,offense,backs_receivers,TE
+3411,2016,20.0,Ohio St.,1.8542,90.26488163,4.4,,13.0,,,,defense,defensive_back,CB
+3412,2016,21.0,Clemson,1.905,122.0163475,4.7,83.82,,304.8,7.16,4.21,defense,defensive_lineman,DE
+3413,2012,21.0,Missouri,1.905,114.7588696,4.75,80.01,21.0,279.4,7.25,4.31,defense,defensive_lineman,DE
+3414,2016,23.0,Ohio St.,1.8542,91.17206637,4.5,88.9,17.0,312.42,6.65,4.07,offense,backs_receivers,WR
+3415,2017,21.0,Texas A&M,1.9558,120.6555704,4.76,91.44,18.0,312.42,7.03,4.38,defense,defensive_lineman,DE
+3416,2014,21.0,Arizona St.,1.8542,113.3980925,4.76,95.25,23.0,309.88,7.25,4.3,defense,line_backer,OLB
+3417,2013,22.0,Penn St.,1.8542,110.2229459,4.78,,22.0,302.26,,,defense,line_backer,OLB
+3418,2015,21.0,Indiana,1.8034,93.44002822,4.4,,22.0,,,,offense,backs_receivers,RB
+3419,2019,22.0,Notre Dame,1.8034,96.16158244,4.57,91.44,17.0,330.2,7.0,4.16,offense,backs_receivers,RB
+3420,2018,22.0,Alabama,1.8288,103.4190604,,,20.0,,,,defense,line_backer,ILB
+3421,2012,,BYU,1.8542,146.5103355,5.12,80.01,36.0,251.46,7.94,4.62,defense,defensive_lineman,DT
+3422,2017,24.0,West Georgia,1.905,112.4909078,4.75,74.93,26.0,294.64,7.02,4.46,defense,line_backer,OLB
+3423,2012,22.0,Clemson,1.8796,142.4280042,5.2,78.74,35.0,254.0,7.97,4.71,defense,defensive_lineman,DT
+3424,2015,22.0,Louisville,1.8796,94.80080533,4.56,82.55,,312.42,7.04,,defense,defensive_back,SS
+3425,2014,23.0,Ohio,1.8288,93.44002822,4.49,,17.0,,,,defense,defensive_back,CB
+3426,2017,21.0,Auburn,1.9304,137.8920805,4.87,73.66,22.0,274.32,7.62,4.89,defense,defensive_lineman,DT
+3427,2009,23.0,Rice,1.778,86.63614267,4.5,107.95,13.0,327.66,7.1,4.41,offense,backs_receivers,WR
+3428,2016,22.0,USC,1.9558,135.1705263,5.12,,22.0,,,,offense,offensive_lineman,C
+3429,2010,,Oklahoma,1.778,95.2543977,4.55,91.44,17.0,292.1,,,offense,backs_receivers,RB
+3430,2015,23.0,Fresno St.,1.778,90.718474,4.61,,,,,,defense,defensive_back,FS
+3431,2011,22.0,Boston Col.,2.0066,141.0672271,5.21,74.93,28.0,266.7,7.25,4.4,offense,offensive_lineman,OT
+3432,2017,21.0,Auburn,1.8796,118.3876086,4.67,83.82,35.0,289.56,7.46,4.19,defense,defensive_lineman,DE
+3433,2016,21.0,Florida,1.8542,92.07925111,4.59,87.63,,312.42,6.77,4.19,offense,backs_receivers,WR
+3434,2018,,West. Michigan,1.8034,108.4085764,4.63,76.2,18.0,276.86,6.93,4.31,offense,backs_receivers,RB
+3435,2010,23.0,Nebraska,1.8288,111.1301307,4.65,80.01,,269.24,7.16,4.43,defense,line_backer,ILB
+3436,2018,,Indiana (PA),1.8542,92.98643585,4.69,,15.0,,,,defense,defensive_back,S
+3437,2018,22.0,Western Kentucky,1.9558,101.6046909,5.09,68.58,,243.84,7.4,4.4,offense,backs_receivers,QB
+3438,2019,23.0,Florida,1.8034,94.34721296,4.47,76.2,21.0,294.64,7.37,4.63,offense,backs_receivers,RB
+3439,2016,20.0,UCLA,1.905,142.4280042,5.06,72.39,29.0,259.08,,4.62,defense,defensive_lineman,DT
+3440,2018,21.0,Penn St.,1.8288,105.6870222,4.4,104.14,29.0,,,4.24,offense,backs_receivers,RB
+3441,2015,22.0,La-Monroe,1.905,88.90410452,4.93,,,,,,special_teams,kicking_specialist,K
+3442,2017,,Tenn-Chattanooga,1.905,122.9235323,,,,,,,defense,defensive_lineman,DE
+3443,2013,22.0,North Carolina St.,1.8796,150.5926668,5.43,,32.0,,,,offense,offensive_lineman,OG
+3444,2011,22.0,Illinois,1.9304,113.3980925,4.42,91.44,23.0,314.96,7.04,4.28,defense,line_backer,ILB
+3445,2014,23.0,California,1.9558,142.4280042,5.12,,24.0,,,,defense,defensive_lineman,DT
+3446,2018,23.0,South Carolina,1.8796,102.5118756,4.73,91.44,,297.18,,,defense,line_backer,OLB
+3447,2016,,West Georgia,1.9558,146.9639279,5.36,72.39,30.0,254.0,8.42,4.83,offense,offensive_lineman,OT
+3448,2015,21.0,Colorado St.,1.8288,102.0582833,4.95,73.66,16.0,271.78,7.38,4.37,defense,line_backer,OLB
+3449,2012,21.0,Louisiana-Lafayette,1.9812,107.9549841,4.45,87.63,16.0,314.96,7.12,4.47,offense,backs_receivers,TE
+3450,2016,23.0,Western Kentucky,1.9812,112.9445001,4.77,,,,,,offense,backs_receivers,TE
+3451,2018,22.0,Boston Col.,1.8542,86.1825503,4.52,,8.0,304.8,,4.18,defense,defensive_back,CB
+3452,2019,21.0,Alabama,1.9304,136.9848957,5.12,71.12,23.0,254.0,8.01,4.79,offense,offensive_lineman,OT
+3453,2016,21.0,UCLA,1.9558,141.0672271,4.98,71.12,,264.16,8.15,5.11,offense,offensive_lineman,OT
+3454,2015,22.0,Texas St.,1.8034,91.17206637,4.44,96.52,17.0,330.2,6.83,4.07,defense,defensive_back,CB
+3455,2011,20.0,Florida,1.8542,91.62565874,4.64,78.74,,312.42,,4.19,defense,defensive_back,FS
+3456,2017,20.0,Texas,1.8288,105.6870222,,,18.0,,,,offense,backs_receivers,RB
+3457,2014,22.0,Iowa,1.8542,109.3157612,4.8,87.63,18.0,297.18,6.94,4.36,defense,line_backer,ILB
+3458,2012,22.0,Nevada,1.8542,109.7693535,4.72,77.47,28.0,274.32,7.05,4.09,defense,line_backer,OLB
+3459,2011,23.0,Georgia,1.8542,109.7693535,4.73,95.25,24.0,312.42,,,defense,line_backer,ILB
+3460,2012,22.0,Iowa,1.905,97.97595192,4.48,93.98,,309.88,7.15,4.07,offense,backs_receivers,WR
+3461,2012,21.0,Michigan St.,1.8034,85.27536556,4.42,100.33,13.0,309.88,6.85,4.13,offense,backs_receivers,WR
+3462,2017,22.0,UCLA,1.8288,93.44002822,4.35,96.52,,345.44,6.94,4.12,defense,defensive_back,CB
+3463,2013,22.0,Iowa St.,1.8796,110.2229459,4.84,,,,,,defense,line_backer,OLB
+3464,2010,23.0,Tennessee,1.8288,102.0582833,4.49,104.14,21.0,314.96,6.87,4.14,offense,backs_receivers,RB
+3465,2009,,West Liberty,1.8034,97.06876718,4.61,91.44,21.0,284.48,7.35,4.44,offense,backs_receivers,RB
+3466,2016,24.0,Utah St.,1.9558,111.1301307,4.72,87.63,15.0,307.34,,,defense,line_backer,OLB
+3467,2010,24.0,USC,1.905,136.5313034,5.04,,33.0,,,,offense,offensive_lineman,C
+3468,2015,23.0,Oklahoma,1.9558,146.9639279,5.35,73.66,29.0,246.38,,4.92,offense,offensive_lineman,OT
+3469,2011,23.0,Nebraska,1.905,123.830717,4.78,,,,,,defense,defensive_lineman,DE
+3470,2010,22.0,William & Mary,1.905,112.4909078,4.76,90.17,20.0,279.4,7.08,4.34,defense,line_backer,OLB
+3471,2012,24.0,Houston,1.8542,94.34721296,4.72,82.55,,261.62,,,offense,backs_receivers,QB
+3472,2012,22.0,Clemson,1.9304,117.4804238,4.67,82.55,19.0,304.8,7.19,4.25,defense,defensive_lineman,DE
+3473,2015,22.0,Miami (FL),1.905,121.1091628,4.79,87.63,27.0,289.56,7.17,4.25,defense,defensive_lineman,DE
+3474,2014,24.0,Boston Col.,1.8796,114.7588696,4.79,87.63,19.0,292.1,7.2,4.35,defense,line_backer,OLB
+3475,2014,,San Diego St.,1.778,91.62565874,4.56,,,,,,offense,backs_receivers,RB
+3476,2016,,Oklahoma,1.8288,105.2334298,4.64,72.39,17.0,264.16,,,defense,line_backer,ILB
